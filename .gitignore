@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+
+# Large datasets & generated feature files
+*.pkl
+*.joblib
+*.csv
+Dataset/
