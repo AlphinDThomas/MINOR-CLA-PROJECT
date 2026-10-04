@@ -13,3 +13,10 @@ venv/
 # local editor folders
 .vscode/
 .idea/
+
+# Data & Model Artifacts
+*.joblib
+*.pkl
+reviews_with_features.csv
+Dataset/
+
