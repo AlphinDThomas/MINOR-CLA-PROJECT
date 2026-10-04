@@ -1,0 +1,6 @@
+model,val_RMSE,val_MAE
+Global mean,1.1406,0.8866
+Item mean,1.1408,0.8347
+User+item bias,1.0739,0.7988
+FunkSVD (mine),1.068,0.7835
+Surprise SVD (reference),1.0696,0.7842
