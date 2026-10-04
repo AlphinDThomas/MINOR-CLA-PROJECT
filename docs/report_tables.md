@@ -92,3 +92,23 @@
 | ALS | 100 | 1.0701 | 0.7952 |
 
 *results_attack.csv not found yet (waiting for the attack data): run `python -m recommender.experiments attack ...`*
+
+### Table 6. Fake Review Detector: NLP Benchmarking 5-Fold Cross-Validation (Seed 42)
+*5-Fold Stratified Cross-Validation on text dataset (40,432 clean reviews after dropping duplicates)*
+
+| Model | Accuracy (mean ± std) | Precision (mean ± std) | Recall (mean ± std) | F1-Score (mean ± std) | PR-AUC (mean ± std) |
+|---|---|---|---|---|---|
+| Linear SVM (Calibrated) | **94.31% ± 0.19%** | 0.9300 ± 0.0029 | **0.9583 ± 0.0019** | **0.9440 ± 0.0019** | **0.9877 ± 0.0003** |
+| Logistic Regression | 93.50% ± 0.21% | **0.9449 ± 0.0033** | 0.9238 ± 0.0022 | 0.9343 ± 0.0021 | 0.9842 ± 0.0007 |
+| Multinomial Naive Bayes | 91.14% ± 0.29% | 0.9042 ± 0.0042 | 0.9204 ± 0.0045 | 0.9122 ± 0.0029 | 0.9761 ± 0.0008 |
+| Random Forest | 86.95% ± 0.42% | 0.9103 ± 0.0046 | 0.8198 ± 0.0058 | 0.8627 ± 0.0046 | 0.9528 ± 0.0023 |
+| Decision Tree | 77.46% ± 0.33% | 0.7989 ± 0.0085 | 0.7339 ± 0.0084 | 0.7650 ± 0.0030 | 0.7369 ± 0.0025 |
+
+### Table 7. Dual Feature Extraction (Word + Char TF-IDF) Benchmark
+*Comparison of dual-feature extraction (Word 1-2 n-grams + Char 2-5 n-grams) vs standard single-word TF-IDF*
+
+| Model | Feature Representation | 5-Fold CV Accuracy | 5-Fold CV F1-Score | Holdout Test Accuracy |
+|---|---|---|---|---|
+| Linear SVM | Dual TF-IDF (Word + Char 2-5 n-grams) | **96.36% ± 0.08%** | **0.9635** | **96.41%** |
+| Decision Tree | Word TF-IDF | 78.35% ± 0.28% | 0.7831 | 79.21% |
+

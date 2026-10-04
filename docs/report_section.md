@@ -70,6 +70,22 @@ Paired differences (same splits, 95% CI): RMSE FunkSVD − ALS(λ=1.0) = −0.00
 * where each wins: hard filtering removes confidently fake ratings completely but also deletes genuine ones that were flagged by mistake; soft weighting degrades gracefully but leaves some residual influence of fake ratings. Do not claim either wins before the numbers say so.
 * note the placeholder in `experiments.default_harness`; replace it with the team's harness function if its definitions differ.
 
+### 7.1 Preliminary NLP Benchmarking Results (Fake Review Detector Pipeline)
+
+Five classical text classification architectures were benchmarked on the cleaned fake review dataset (40,432 text reviews after removing 12 exact duplicates) using 5-fold Stratified Cross-Validation (seed 42). TF-IDF vectorization was strictly wrapped inside an `sklearn` Pipeline to prevent train/test leakage.
+
+* **Linear SVM (Calibrated)** achieved the best overall performance: **94.31% ± 0.19% Accuracy**, **0.9440 ± 0.0019 F1-Score**, **0.9583 ± 0.0019 Recall**, and **0.9877 ± 0.0003 PR-AUC**.
+* **Logistic Regression** placed second with **93.50% ± 0.21% Accuracy**, **0.9449 ± 0.0033 Precision**, and **0.9842 ± 0.0007 PR-AUC**.
+* **Multinomial Naive Bayes** scored **91.14% ± 0.29% Accuracy** and **0.9761 ± 0.0008 PR-AUC**.
+* **Random Forest** achieved **86.95% ± 0.42% Accuracy** and **0.9528 ± 0.0023 PR-AUC**.
+* **Decision Tree** scored **77.46% ± 0.33% Accuracy** and **0.7369 ± 0.0025 PR-AUC**.
+
+**Dual-Feature Extraction (Word + Char n-grams):**
+Expanding the feature representation to include word n-grams (1-2) alongside character n-grams (2-5) for Linear SVM boosted 5-fold CV accuracy to **96.36% ± 0.08%** (F1 = 0.9635) and holdout test accuracy to **96.41%**.
+
+The out-of-fold predicted probabilities (`p_fake`) from the calibrated Linear SVM model serve as the primary NLP detector scores in `scores_classical.csv`.
+
+
 ## 8. Limitations (state these honestly)
 
 1. All results use one 153,805-rating sample of one product domain; very sparse (0.076%). Conclusions about low-rank structure may differ on denser data.
