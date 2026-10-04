@@ -1,0 +1,1191 @@
+user_id,behavior_score,review_count,reviews_per_day,extremeness_ratio,rating_deviation,product_level_spikes,reason_code
+A1XXMNLOLKNO0I,1.0,54,25,0.925925925925926,0.562185608111089,1,25 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A1MFVAHTT2BHM0,0.9696,59,12,0.4745762711864407,0.8349157062089334,3,12 reviews in one day (burst) | Participated in 3 product rating spikes
+A1EH2S92FHWZRP,0.9398,126,4,0.4444444444444444,0.793185010750096,3,4 reviews in one day (burst) | Participated in 3 product rating spikes
+A1HBEQWSMVQEWJ,0.9342,42,13,0.5,0.930965036091118,1,13 reviews in one day (burst) | Rating deviation 0.93 stars from product mean
+A3077MQTAKOVFZ,0.9335,49,13,0.6122448979591837,0.7522826375600186,1,13 reviews in one day (burst)
+A2QDOJFFLFGF18,0.933,61,10,0.8032786885245902,0.7676598096770761,1,10 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A3OZA8HNJM26DC,0.9327,38,14,0.5526315789473685,1.1460424105715834,1,14 reviews in one day (burst) | Rating deviation 1.15 stars from product mean
+AEJAGHLC675A7,0.932,139,2,0.7482014388489209,0.5216838819354008,2,Participated in 2 product rating spikes
+A198M9M2PUJE2Z,0.9223,29,24,0.896551724137931,0.5193860859715212,1,24 reviews in one day (burst) | 89% extreme (1 or 5 star) ratings
+A1O7AKVUH4482D,0.9209,25,23,0.0,0.345365035976808,0,23 reviews in one day (burst)
+A3S3R88HA0HZG3,0.9179,93,3,0.8279569892473119,0.7849837918668372,2,82% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A385HZRPXDDFCL,0.9149,32,12,0.96875,0.8285679860742536,1,12 reviews in one day (burst) | 96% extreme (1 or 5 star) ratings
+A3D0UM4ZD2CMAW,0.9134,58,32,0.9827586206896552,0.5710609366046128,0,32 reviews in one day (burst) | 98% extreme (1 or 5 star) ratings
+A2TN0U8173HM7A,0.9114,43,10,1.0,0.6682659232949905,1,10 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A4UGMKUSX9XHI,0.9096,62,3,0.8548387096774194,0.5924829260273616,2,85% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A1F1A0QQP2XVH5,0.9095,123,4,0.5365853658536586,0.8048261497876079,1,4 reviews in one day (burst)
+A3HH340REI4J47,0.9087,37,13,0.5945945945945946,0.4981595500472157,1,13 reviews in one day (burst)
+A2LW5AL0KQ9P1M,0.9059,84,5,0.4166666666666667,0.9240516993866428,1,5 reviews in one day (burst) | Rating deviation 0.92 stars from product mean
+ANW6EGY12V5XS,0.9048,84,6,0.5,0.862352060063252,1,6 reviews in one day (burst)
+A1MEISNED4NP7U,0.9029,46,9,0.8260869565217391,0.4983491683671906,1,9 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings
+A2NQMVTQ4PVLL,0.9014,45,8,0.6888888888888889,0.4385410093632277,2,8 reviews in one day (burst) | Participated in 2 product rating spikes
+ALQ4USPEQ9L5N,0.8997,57,9,0.543859649122807,0.8213506408606952,1,9 reviews in one day (burst)
+AONUCJBC85BL,0.8979,98,3,0.3673469387755102,0.782814611728304,1,Multi-attribute behavioral anomaly pattern
+ACPV29SBTSTBS,0.8946,37,13,0.6216216216216216,0.6273000664821827,1,13 reviews in one day (burst)
+ATS2855497V0I,0.8942,89,3,0.2134831460674157,0.6363693694433548,1,Multi-attribute behavioral anomaly pattern
+ABVYGB2TKBO8F,0.8877,78,6,0.6538461538461539,0.6762049566499835,1,6 reviews in one day (burst)
+A1G650TTTHEAL5,0.8877,52,5,0.8653846153846154,0.4994743280281027,1,5 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+AEWYUPCNDV7HY,0.8862,100,4,0.55,0.7374967660437612,1,4 reviews in one day (burst)
+A22CW0ZHY3NJH8,0.8853,151,3,0.5033112582781457,0.6361060761943261,1,Multi-attribute behavioral anomaly pattern
+A1T1YSCDW0PD25,0.8754,148,3,0.7297297297297297,0.6031229647843764,1,Multi-attribute behavioral anomaly pattern
+AQ2FC1DLKVD8H,0.8673,55,4,0.8,0.8832144530155903,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+AGOH8N902URMW,0.8671,74,4,0.7567567567567568,0.7842494489280211,1,4 reviews in one day (burst)
+A3T4OHEAHOJ700,0.8631,81,4,0.5061728395061729,0.7287600298427921,1,4 reviews in one day (burst)
+A3TQTYD0D6AUO3,0.8621,24,15,0.7916666666666666,0.5588335124593878,2,15 reviews in one day (burst) | Participated in 2 product rating spikes
+A3TBMAWIIHKHFN,0.8617,53,3,0.5660377358490566,1.1574894801617206,1,Rating deviation 1.16 stars from product mean
+A1GYEGLX3P2Y7P,0.8609,53,2,0.3396226415094339,0.5438330920623553,1,Multi-attribute behavioral anomaly pattern
+A186697K4XKXQL,0.8575,66,2,0.2727272727272727,0.7646629710766853,1,Multi-attribute behavioral anomaly pattern
+A4U27URFECK1U,0.8559,48,2,0.3541666666666667,0.5996919342914661,1,Multi-attribute behavioral anomaly pattern
+A1URXSRV6WDHVY,0.8552,82,2,0.7317073170731707,0.682678980890542,1,Multi-attribute behavioral anomaly pattern
+A3IOQ7NVVLAUEE,0.8545,37,18,0.918918918918919,1.0182094728082485,0,18 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings | Rating deviation 1.02 stars from product mean
+AW6J9IILGOZY3,0.8511,53,3,0.5849056603773585,0.6956846072070574,2,Participated in 2 product rating spikes
+A1GWG5CWLKJ7ET,0.8486,48,2,0.75,1.067231949368858,1,Rating deviation 1.07 stars from product mean
+A2T24Z5QP2OMXU,0.8459,35,17,0.3428571428571428,0.5872353587619463,0,17 reviews in one day (burst)
+AT28RL25Q2OLK,0.8424,95,3,0.6105263157894737,0.711248208039035,1,Multi-attribute behavioral anomaly pattern
+A361U4SXK7FCQE,0.8423,52,2,0.4615384615384615,0.5340895894281463,1,Multi-attribute behavioral anomaly pattern
+A20L2Y5CIA3VF9,0.8422,19,10,0.9473684210526316,1.0807961415360994,2,10 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings | Rating deviation 1.08 stars from product mean | Participated in 2 product rating spikes
+ANTOV8XD0YB0W,0.842,28,15,0.75,0.7123122553835161,1,15 reviews in one day (burst)
+A4Z12I3D81BK8,0.8376,15,12,0.9333333333333332,1.1059197174876794,1,12 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings | Rating deviation 1.11 stars from product mean
+ACHTDPEQYSEQL,0.837,53,2,0.4339622641509434,0.8469962414979562,1,Multi-attribute behavioral anomaly pattern
+ASJZT7DM51QEM,0.836,40,1,0.25,0.5010687628680194,1,Multi-attribute behavioral anomaly pattern
+AUITG1DJ3QUGK,0.8328,55,4,0.4727272727272727,0.7788791034608654,1,4 reviews in one day (burst)
+A3MFORLOKIOEQY,0.8308,63,3,0.6507936507936508,0.7633380864719184,1,Multi-attribute behavioral anomaly pattern
+A3I195NZP83EU1,0.8307,17,12,1.0,0.6044919495118579,1,12 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A7NKKP0FUGFHU,0.8296,18,12,0.9444444444444444,0.5390431727957086,1,12 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings
+A2JP9E1H0SF392,0.8273,56,2,0.75,0.7407099373029432,1,Multi-attribute behavioral anomaly pattern
+ADZ2QODSMGAUG,0.8248,15,14,1.0,0.519489945239157,1,14 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A12EVK82QUTSA6,0.8165,47,5,0.6808510638297872,0.7186445718011715,1,5 reviews in one day (burst)
+A2V9DTXTQ5YIMK,0.8148,59,2,0.6271186440677966,0.7071333835259548,1,Multi-attribute behavioral anomaly pattern
+AA6K9WCIIUR4M,0.8147,31,26,0.5161290322580645,0.6140084359826624,0,26 reviews in one day (burst)
+A28621TSIR5EOG,0.8142,40,4,0.95,0.530063817980952,1,4 reviews in one day (burst) | 95% extreme (1 or 5 star) ratings
+A3ER6ARJ23CIN8,0.8118,47,13,0.8297872340425532,0.7048417152626694,0,13 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings
+A3HV10458SSRVM,0.8107,15,13,0.7333333333333333,0.863603304982328,2,13 reviews in one day (burst) | Participated in 2 product rating spikes
+A3RIOBX7NLKJ7S,0.8106,14,9,0.1428571428571428,0.8909347964221931,1,9 reviews in one day (burst)
+A3SRDVCD2ATIIS,0.806,40,6,0.75,0.5752481359121934,1,6 reviews in one day (burst)
+A20DZX38KRBIT8,0.8047,90,3,0.8444444444444444,1.9223195269619464,0,84% extreme (1 or 5 star) ratings | Rating deviation 1.92 stars from product mean
+A2M1MNG7G40V85,0.8046,32,1,0.53125,1.187582630528864,1,Rating deviation 1.19 stars from product mean
+A39RYTM5FN8OY2,0.8044,32,7,0.65625,1.0378956119414866,1,7 reviews in one day (burst) | Rating deviation 1.04 stars from product mean
+AO09RWV40IX78,0.8033,44,5,0.7272727272727273,0.7891300718276821,1,5 reviews in one day (burst)
+A1Z4GII5CHCDG7,0.8027,41,14,0.6341463414634146,0.8988535691619238,0,14 reviews in one day (burst)
+A3G52XWKNLBC3,0.8015,26,17,0.3461538461538461,0.4784681289194125,0,17 reviews in one day (burst)
+A2TRXEZYU9GYY8,0.7999,38,21,0.7631578947368421,0.5916457444785944,0,21 reviews in one day (burst)
+A1FAETFXIWAELQ,0.796,25,7,0.96,0.4484794604102088,1,7 reviews in one day (burst) | 96% extreme (1 or 5 star) ratings
+A2XIRK8WCGR6CF,0.7922,12,12,0.9166666666666666,0.4203784499451011,1,12 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings
+A3TL36D4EDYWS0,0.7885,28,21,0.9285714285714286,0.4339354968413147,0,21 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A5JLAU2ARJ0BO,0.7879,123,6,0.5691056910569106,1.1701746232764736,0,6 reviews in one day (burst) | Rating deviation 1.17 stars from product mean
+A3D5OJA3XIQS18,0.7862,5,1,0.0,0.4286261631089217,1,Multi-attribute behavioral anomaly pattern
+A3PGVJF37JSHFO,0.7852,47,10,0.3829787234042553,0.840466067809022,0,10 reviews in one day (burst)
+A3P1508PZ0UADD,0.7845,32,6,0.75,1.037284038733719,1,6 reviews in one day (burst) | Rating deviation 1.04 stars from product mean
+A3C3TEMF8OMCRC,0.7831,15,12,0.8666666666666667,0.4604893874537768,1,12 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A2E1EFNIZL2FVA,0.7798,38,2,0.8157894736842105,0.7256074907821691,1,81% extreme (1 or 5 star) ratings
+A2ALX5U55NTGTL,0.777,31,2,0.967741935483871,0.8335414637526887,1,96% extreme (1 or 5 star) ratings
+A9NOZ2HSXI4YJ,0.7761,22,5,0.5909090909090909,1.6144555348413758,1,5 reviews in one day (burst) | Rating deviation 1.61 stars from product mean
+A20WUUD9EDWY4N,0.7754,37,15,0.7027027027027027,0.6476406336640654,0,15 reviews in one day (burst)
+A10R1SL31CJII8,0.7749,19,7,0.2105263157894736,0.7158397484790214,1,7 reviews in one day (burst)
+A29PQH8RIUG4KZ,0.7736,23,1,0.4347826086956521,1.3202280132947255,1,Rating deviation 1.32 stars from product mean
+A278V4RQOW79GG,0.773,35,13,0.4857142857142857,0.6914807696282349,0,13 reviews in one day (burst)
+A14NA0W8ESGDSI,0.7726,43,2,0.4651162790697674,0.6492814152689327,1,Multi-attribute behavioral anomaly pattern
+A2ZY49IDE6TY5I,0.7711,82,4,0.2560975609756097,0.4551778018278119,0,4 reviews in one day (burst)
+A35Z6A2J7CFW2,0.7706,23,4,0.217391304347826,1.3431520699586854,1,4 reviews in one day (burst) | Rating deviation 1.34 stars from product mean
+A2DYMDOAJURO5F,0.7687,29,1,0.4482758620689655,0.7458239985361059,1,Multi-attribute behavioral anomaly pattern
+A3EANUH7WV1AGU,0.7669,29,6,0.8275862068965517,0.6649546118266435,1,6 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings
+A33CK9OFDUOVJ,0.7656,12,8,0.1666666666666666,0.8269329458353161,1,8 reviews in one day (burst)
+A3OXHEV3U8YOAZ,0.7641,24,9,0.7916666666666666,0.6084355775891771,1,9 reviews in one day (burst)
+A1DN73KYREUPNZ,0.7639,7,7,0.4285714285714285,1.577345285897513,1,7 reviews in one day (burst) | Rating deviation 1.58 stars from product mean
+A3DS0VAXL90E26,0.7631,13,2,0.0,0.7379844982884272,1,Multi-attribute behavioral anomaly pattern
+A1C1TNVSZAZA4E,0.7626,29,17,0.8620689655172413,0.7247774448813338,0,17 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A3S3TGIWP6785Z,0.7626,24,8,0.75,0.9086890098478464,1,8 reviews in one day (burst) | Rating deviation 0.91 stars from product mean
+A2PL06HW6KZH2,0.7615,38,12,0.8157894736842105,0.8255889622323165,0,12 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A3131NCMSV2A77,0.761,15,10,0.5333333333333333,0.4171777146154818,1,10 reviews in one day (burst)
+A3DH53FPYSP9E,0.759,34,2,0.2647058823529412,0.5235598218480592,1,Multi-attribute behavioral anomaly pattern
+A1LJ3BCAVCYXV2,0.7565,30,28,0.7666666666666667,0.5067994159308011,0,28 reviews in one day (burst)
+ASNW8MGNC91D2,0.7548,23,9,0.782608695652174,0.7632676475038869,1,9 reviews in one day (burst)
+A20V7N5A22F4BM,0.753,35,2,0.5428571428571428,0.8734818216508158,2,Participated in 2 product rating spikes
+A23QKGBTR29SIU,0.7516,10,10,0.9,1.0084490519432705,1,10 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings | Rating deviation 1.01 stars from product mean
+A28X7NZ02016FO,0.7516,28,3,0.8214285714285714,0.750366277201689,2,82% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A28DJ4FW2LG77Z,0.7506,29,5,0.8275862068965517,0.5694490494691626,1,5 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings
+A39WU7E2QYISCH,0.7502,24,6,1.0,0.5709176283736798,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A25TNBMJ4ZO7RD,0.7498,29,2,0.2758620689655172,0.831981239805627,1,Multi-attribute behavioral anomaly pattern
+A1NRMTQ5SZPZA,0.7485,35,2,0.4571428571428571,0.4379483708499189,1,Multi-attribute behavioral anomaly pattern
+A3SQ3W73LZECJV,0.7464,23,6,0.9565217391304348,0.6887237987334458,1,6 reviews in one day (burst) | 95% extreme (1 or 5 star) ratings
+AYGEKID3G7DPW,0.7456,23,15,0.4347826086956521,0.994105922855703,0,15 reviews in one day (burst) | Rating deviation 0.99 stars from product mean
+A22OVYYRUDM9E9,0.7439,11,11,0.9090909090909092,0.7369830866210023,1,11 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings
+A1CNV2BQHWAAPM,0.7429,25,13,0.4,0.5534981956198818,0,13 reviews in one day (burst)
+A3NHUQ33CFH3VM,0.7428,125,7,0.616,0.7274914923999536,0,7 reviews in one day (burst)
+AMPKOIPK02W6B,0.7424,10,7,0.2,0.8945892361187017,1,7 reviews in one day (burst)
+A3QNDSQJFA360M,0.74,34,3,0.8529411764705882,0.6286494429392123,1,85% extreme (1 or 5 star) ratings
+A254YOEDRG7DIN,0.7398,10,2,0.9,2.2061080664514807,1,90% extreme (1 or 5 star) ratings | Rating deviation 2.21 stars from product mean
+A3UZFW0JK0DJ2B,0.7371,11,2,0.9090909090909092,2.1720172089123704,1,90% extreme (1 or 5 star) ratings | Rating deviation 2.17 stars from product mean
+A1X9NSH94X3ODQ,0.7366,5,2,0.2,1.877441072090683,1,Rating deviation 1.88 stars from product mean
+A18HE80910BTZI,0.7363,118,2,0.2627118644067797,0.7554798274302316,0,Multi-attribute behavioral anomaly pattern
+A3FGOOWBV8SUCA,0.7363,25,5,1.0,0.7297336079188469,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A16GBXDS51J019,0.7355,27,2,0.2222222222222222,0.670207434114287,1,Multi-attribute behavioral anomaly pattern
+A268EEWUXYCA8Q,0.735,34,2,0.4117647058823529,0.7180417364661745,1,Multi-attribute behavioral anomaly pattern
+A18S2QNFRUHRBV,0.7328,11,2,0.0,0.7047234335230396,1,Multi-attribute behavioral anomaly pattern
+AH6OYB8SIKPE9,0.7325,21,5,0.9523809523809524,0.7260384019558723,2,5 reviews in one day (burst) | 95% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A3JU990UTN5RQP,0.7316,33,12,0.696969696969697,0.5721950631465926,0,12 reviews in one day (burst)
+A2H0T0PY5IMEFX,0.7312,17,2,0.6470588235294118,1.5779922422043535,1,Rating deviation 1.58 stars from product mean
+AYINNKPX9D60N,0.7308,30,11,0.4333333333333333,0.5483050367348808,0,11 reviews in one day (burst)
+A36IHC0K68NS2,0.7303,60,3,0.2333333333333333,0.9324082588638364,0,Rating deviation 0.93 stars from product mean
+ACS10ZOB8XCGO,0.7298,20,8,0.45,0.67783467217321,1,8 reviews in one day (burst)
+A1437CAM9CNC1E,0.7285,35,2,0.4571428571428571,0.8411434403564085,1,Multi-attribute behavioral anomaly pattern
+A3CYSC7Y6M0143,0.7262,12,9,0.0,0.2864679205015339,0,9 reviews in one day (burst)
+A2YZEZ1ZQCFRTA,0.7253,25,4,0.72,1.127119180800939,1,4 reviews in one day (burst) | Rating deviation 1.13 stars from product mean
+A2UW9WI22QKMZE,0.7252,28,2,0.6785714285714286,0.7322051919758711,2,Participated in 2 product rating spikes
+A7GSAXOHLDDYP,0.725,19,6,1.0,0.4681096359518161,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3A4ZAIBQWKOZS,0.7247,149,5,0.7516778523489933,0.5535505404101029,0,5 reviews in one day (burst)
+A1O97WKID9L3IA,0.7237,29,3,0.8275862068965517,0.6729026978494406,1,82% extreme (1 or 5 star) ratings
+A1CQA11521U9SD,0.7222,5,1,0.8,2.11534177323651,1,80% extreme (1 or 5 star) ratings | Rating deviation 2.12 stars from product mean
+A17TXJ5ZVYS42Q,0.7221,15,8,1.0,0.6441905992933421,1,8 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AGFUJAPEIOEXR,0.722,16,1,0.25,0.6497441096096964,1,Multi-attribute behavioral anomaly pattern
+A1VOFY3QFT9WCG,0.7197,22,6,0.8636363636363636,0.5201768286330498,1,6 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+AWA3U2TAU0KYP,0.7191,34,2,0.7352941176470589,0.9560022753036064,1,Rating deviation 0.96 stars from product mean
+AWC97DS45VZA6,0.7187,20,12,0.35,0.9352839245839004,0,12 reviews in one day (burst) | Rating deviation 0.94 stars from product mean
+AYLLSFYS3UP1H,0.7181,58,9,0.6896551724137931,0.7269288829641289,0,9 reviews in one day (burst)
+A7WBN2UA742J5,0.7174,21,6,0.8095238095238095,0.4852819375257549,1,6 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A1SXCGBJ9JW2MO,0.7167,34,2,0.7058823529411765,0.5533058615034951,1,Multi-attribute behavioral anomaly pattern
+A2R1HAXRNU0QX7,0.7156,16,1,0.3125,0.4345222694868499,1,Multi-attribute behavioral anomaly pattern
+A3DSUPA8E67I7R,0.715,14,2,0.3571428571428571,1.414369626126646,1,Rating deviation 1.41 stars from product mean
+AKVY3FDMU42ZA,0.714,19,15,1.0,0.3720605827882569,0,15 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1H4NFXAJQRQ2K,0.7135,11,1,0.3636363636363636,1.3002842275569548,1,Rating deviation 1.30 stars from product mean
+AJQDIT55SZ3ZX,0.713,31,3,0.7741935483870968,0.8132784707870014,1,Multi-attribute behavioral anomaly pattern
+A39C34NKIELF1S,0.712,13,7,0.9230769230769232,0.4820272352851273,1,7 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A16LE2XBKYYRJJ,0.7113,19,6,0.8947368421052632,0.8405529514068801,1,6 reviews in one day (burst) | 89% extreme (1 or 5 star) ratings
+A29AX4IB7BJWFZ,0.711,8,8,0.5,0.9154673968508272,2,8 reviews in one day (burst) | Rating deviation 0.92 stars from product mean | Participated in 2 product rating spikes
+A3B0HUYVGFCV46,0.7105,19,7,0.8947368421052632,0.7225522758624043,1,7 reviews in one day (burst) | 89% extreme (1 or 5 star) ratings
+A1IDAKX7OM3QIE,0.7098,26,2,0.5769230769230769,1.069616515081259,1,Rating deviation 1.07 stars from product mean
+A3DYUFKEC5RCC9,0.7097,5,1,0.4,1.5611899065846433,1,Rating deviation 1.56 stars from product mean
+A1MZL91Z44RN06,0.7097,82,6,0.6707317073170732,0.6129141225276798,0,6 reviews in one day (burst)
+A2I2ZOS8K15JX5,0.7091,9,6,0.8888888888888888,1.6934867228540975,1,6 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings | Rating deviation 1.69 stars from product mean
+A101L4HF0IZ33C,0.7089,16,4,0.625,1.3257429647708483,1,4 reviews in one day (burst) | Rating deviation 1.33 stars from product mean
+A1V781OOF33QRH,0.7088,14,7,0.7857142857142857,0.8756477693419367,1,7 reviews in one day (burst)
+A3MQ15651KGVLJ,0.7071,64,4,0.84375,0.9279180653670352,0,4 reviews in one day (burst) | 84% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A2IFN1FBRHOK7R,0.707,23,19,0.9130434782608696,0.5208751073954936,0,19 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings
+A3RZOPQ42Q50B1,0.7068,28,2,0.3928571428571428,0.7501735882483983,1,Multi-attribute behavioral anomaly pattern
+A1F70KXI4UC60P,0.7062,10,3,0.1,0.4400304551123312,1,Multi-attribute behavioral anomaly pattern
+A3NBXUHHJZTZLF,0.7055,12,10,0.75,0.6002238658475308,1,10 reviews in one day (burst)
+AW0SOAPEY2I7,0.7048,6,2,0.8333333333333334,2.2105548543528086,1,83% extreme (1 or 5 star) ratings | Rating deviation 2.21 stars from product mean
+A3LB1B61S50FEK,0.7046,27,13,0.8518518518518519,0.5211273432558832,0,13 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+A316RLHHO9Y24T,0.7045,25,2,0.36,0.5437279192050624,1,Multi-attribute behavioral anomaly pattern
+A11T807LX2EF00,0.7044,67,8,0.6865671641791045,0.750113822742146,0,8 reviews in one day (burst)
+A3D3EFG4XMO1XG,0.7018,18,4,0.6666666666666666,0.4463971509399584,2,4 reviews in one day (burst) | Participated in 2 product rating spikes
+A1VKO1VVYLY50K,0.7017,32,10,0.625,0.4469060672246705,0,10 reviews in one day (burst)
+A3HXGSMCIOZEW8,0.7013,44,9,0.7272727272727273,0.5864863769311107,0,9 reviews in one day (burst)
+A3882RXW8MO4J4,0.7008,14,2,0.2857142857142857,0.7270652380535901,2,Participated in 2 product rating spikes
+A336OCR8QA0H36,0.7002,26,20,0.6923076923076923,0.7027194666105243,0,20 reviews in one day (burst)
+A2SUSMSKDK6JL0,0.7,26,19,0.6923076923076923,0.6872128645615252,0,19 reviews in one day (burst)
+A3QQCEQ33O0GJU,0.6998,26,15,0.8076923076923077,0.6230710093143658,0,15 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A11CPO8OUQPXL2,0.6996,6,4,0.6666666666666666,1.8750027614850164,1,4 reviews in one day (burst) | Rating deviation 1.88 stars from product mean
+A1C00XXCYWEKK1,0.6993,27,13,0.6666666666666666,0.987019867206514,0,13 reviews in one day (burst) | Rating deviation 0.99 stars from product mean
+A2TYUM8DDY2UZI,0.6992,7,5,0.7142857142857143,1.7534318711415098,1,5 reviews in one day (burst) | Rating deviation 1.75 stars from product mean
+A2IMGHMF0LO151,0.6987,16,1,0.375,0.5564236351703006,1,Multi-attribute behavioral anomaly pattern
+A2JJIBBRQ3A3IG,0.6984,12,8,0.9166666666666666,0.8289459374369056,1,8 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings
+A23NSKTMSPPBTR,0.6974,79,2,0.2531645569620253,0.6917734938511394,0,Multi-attribute behavioral anomaly pattern
+AGM7ATQ8V6B9S,0.6972,6,4,0.0,0.726721942811173,1,4 reviews in one day (burst)
+AVNFGFRFPAFK4,0.6969,10,1,0.3,1.2427815329030163,1,Rating deviation 1.24 stars from product mean
+A1Y07XHSC38J3T,0.6966,10,3,0.9,1.4836752341026005,2,90% extreme (1 or 5 star) ratings | Rating deviation 1.48 stars from product mean | Participated in 2 product rating spikes
+A3QDY9I0CNMD2W,0.6956,38,10,0.6578947368421053,0.8985114434509786,0,10 reviews in one day (burst)
+AB399AECXCDT8,0.6952,17,1,0.8235294117647058,0.6772950188130522,3,82% extreme (1 or 5 star) ratings | Participated in 3 product rating spikes
+A3NV9BJPA3FJYB,0.6948,6,1,0.1666666666666666,0.3884948349022672,1,Multi-attribute behavioral anomaly pattern
+A397CWU6DM3O5G,0.6943,27,2,0.6296296296296297,0.8144925422258008,1,Multi-attribute behavioral anomaly pattern
+A1S2WVO945B40C,0.694,5,1,1.0,1.5073018585002234,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.51 stars from product mean
+A3T5Z5PRLDMCLZ,0.6939,13,1,0.8461538461538461,1.281862080277573,1,84% extreme (1 or 5 star) ratings | Rating deviation 1.28 stars from product mean
+ADPP0TXH70ON8,0.6933,8,1,0.25,0.4080085767585767,1,Multi-attribute behavioral anomaly pattern
+A2XQCM6C945HSO,0.6933,5,3,0.6,1.8157239745817135,1,Rating deviation 1.82 stars from product mean
+AYB4ELCS5AM8P,0.6931,95,4,0.8,0.5903636826306922,0,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A1U90MYVSLLFI1,0.6928,20,4,0.55,0.7063943903101164,2,4 reviews in one day (burst) | Participated in 2 product rating spikes
+A3SFEHDHGCJ0GC,0.6927,15,6,0.8666666666666667,0.988344694217504,1,6 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings | Rating deviation 0.99 stars from product mean
+A267CNXZTWED3N,0.6926,23,12,0.9565217391304348,0.7937918110861706,0,12 reviews in one day (burst) | 95% extreme (1 or 5 star) ratings
+A3EAP2VG0BVYWX,0.6923,27,2,0.4074074074074074,0.642506089631545,1,Multi-attribute behavioral anomaly pattern
+A1EDB9PI1GFOEJ,0.6921,6,6,0.5,0.3160421645612835,1,6 reviews in one day (burst)
+AC1INZK10Y3WB,0.6909,5,2,1.0,1.7953224457482233,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.80 stars from product mean
+A8X8D4BUY5DFU,0.6904,25,4,0.64,0.5960146856224954,1,4 reviews in one day (burst)
+AA66O1V57XZX7,0.69,9,8,0.4444444444444444,0.6810119253672844,1,8 reviews in one day (burst)
+A1X2LENOF84LCQ,0.6899,51,2,0.1568627450980392,0.87505079722969,0,Multi-attribute behavioral anomaly pattern
+A1BC8Y3P50D0KG,0.6893,11,8,0.6363636363636364,0.9293842712103376,1,8 reviews in one day (burst) | Rating deviation 0.93 stars from product mean
+A39U8I1YS5ZCP8,0.6888,20,19,0.8,0.9204396069818432,0,19 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 0.92 stars from product mean
+ASRB1QZFWWBFK,0.6873,16,8,0.6875,0.6888947438846136,1,8 reviews in one day (burst)
+A54S9CIUV5VNB,0.6865,67,5,0.5970149253731343,0.5365419889613562,0,5 reviews in one day (burst)
+A3CJ3DKELFXX59,0.686,23,2,0.8695652173913043,0.78023914009756,1,86% extreme (1 or 5 star) ratings
+A2I5LVVQ7WXEH6,0.6858,29,3,0.5172413793103449,0.7077333534781132,1,Multi-attribute behavioral anomaly pattern
+AA6176V2HKG16,0.6856,25,4,0.68,0.7903442758174917,1,4 reviews in one day (burst)
+A2VFN33XFSDW9C,0.6855,33,3,0.5454545454545454,0.6763715216326355,1,Multi-attribute behavioral anomaly pattern
+A386LG0LRWKJZP,0.6853,40,3,0.325,1.6746863665961953,0,Rating deviation 1.67 stars from product mean
+A1QT6PHXDA5XDF,0.685,17,4,0.7647058823529411,0.6288242125523146,2,4 reviews in one day (burst) | Participated in 2 product rating spikes
+A1ZGHA3IJV01BK,0.6848,23,2,0.391304347826087,0.6246659060517757,1,Multi-attribute behavioral anomaly pattern
+A1UI6F76CPCG8Q,0.6847,39,8,0.3333333333333333,0.595178632198722,0,8 reviews in one day (burst)
+A22JRVAY052312,0.6844,26,13,0.7307692307692307,0.4772781976487146,0,13 reviews in one day (burst)
+A2PICNZWHEINQC,0.6843,42,9,0.8095238095238095,0.6878726544202558,0,9 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A12DHI42CBTWFS,0.6842,20,5,0.7,1.07789803273187,1,5 reviews in one day (burst) | Rating deviation 1.08 stars from product mean
+A27SEH7FJJIKIC,0.6842,16,3,0.9375,0.3068498671600065,1,93% extreme (1 or 5 star) ratings
+A3U52V5ZAHZZKU,0.6841,22,2,0.9090909090909092,0.6558420391853045,1,90% extreme (1 or 5 star) ratings
+AOP2ZRNSHY2Z3,0.6839,23,2,0.3478260869565217,0.5904179963150478,1,Multi-attribute behavioral anomaly pattern
+ASG7NBUSYD1QN,0.6838,12,9,0.8333333333333334,0.6146772709488005,1,9 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A1NBBG8BALZ0BP,0.6836,20,13,0.4,0.5865244897022649,0,13 reviews in one day (burst)
+A3JX1D26WFEXOS,0.6815,21,2,0.9523809523809524,0.7927667660235488,1,95% extreme (1 or 5 star) ratings
+AU3GYRAKBUAEU,0.6798,48,2,0.1875,1.0136209228480708,0,Rating deviation 1.01 stars from product mean
+A8ZEIMTD8NDOV,0.6797,21,2,0.3333333333333333,0.7256915310039995,1,Multi-attribute behavioral anomaly pattern
+A18R50B4PS1Z5X,0.6797,21,2,0.9523809523809524,0.8983837841759955,1,95% extreme (1 or 5 star) ratings
+A1PEXTGNF36I1Q,0.6793,43,7,0.9302325581395348,0.5783838154238916,0,7 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings
+A3QDMDSANPYGUX,0.6783,23,3,0.8695652173913043,0.8432152865833287,1,86% extreme (1 or 5 star) ratings
+A1FRIBXUEIRNQ3,0.678,15,8,0.6,0.6608691051880345,1,8 reviews in one day (burst)
+A10KGRO01ZOXK5,0.6779,18,17,0.9444444444444444,0.6548791449732313,0,17 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings
+ALDAF4VVLFRHP,0.6778,101,4,0.6237623762376238,0.6927439910577317,0,4 reviews in one day (burst)
+ARDB79V42CX6P,0.6778,19,4,0.4210526315789473,0.672434875066454,1,4 reviews in one day (burst)
+A9GWBCKURNXZS,0.6776,19,12,0.9473684210526316,0.9761791642381276,0,12 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings | Rating deviation 0.98 stars from product mean
+A33IJGLTVS5MDS,0.6768,19,2,0.6842105263157895,1.291050996280207,1,Rating deviation 1.29 stars from product mean
+A33SX0AD5PYD9B,0.6766,41,5,0.2195121951219512,0.5072047742352939,0,5 reviews in one day (burst)
+A4WOKTVA4HST9,0.6765,11,7,0.8181818181818182,0.934617639506188,1,7 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A3PD8JD9L4WEII,0.6765,118,3,0.4830508474576271,0.5873363019350872,0,Multi-attribute behavioral anomaly pattern
+A3BJILZFD22RX3,0.6758,7,6,0.4285714285714285,1.0950328407224958,1,6 reviews in one day (burst) | Rating deviation 1.10 stars from product mean
+A12ABV9NU02O29,0.6757,13,1,0.6923076923076923,1.0752936042687409,1,Rating deviation 1.08 stars from product mean
+A154R0EH8V8J23,0.6757,30,3,0.7333333333333333,0.6461266536490418,1,Multi-attribute behavioral anomaly pattern
+A2JA8EMRNT3ON,0.6755,20,20,0.55,0.6688053514009608,0,20 reviews in one day (burst)
+A2JQ8IZWUZ18TK,0.675,27,2,0.1111111111111111,1.5689971945303876,0,Rating deviation 1.57 stars from product mean
+A3HPBB9V036H6K,0.675,5,1,1.0,1.361448382126348,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.36 stars from product mean
+A28ISUIFUMLQD6,0.6745,20,4,0.35,0.8822715389670834,1,4 reviews in one day (burst)
+A3AVXHU880YWQY,0.6738,19,18,0.4736842105263157,0.8132262609643246,0,18 reviews in one day (burst)
+A35BVGH5X6Z4QH,0.6734,21,2,0.4285714285714285,0.5673868789940218,1,Multi-attribute behavioral anomaly pattern
+A3VG1RDWHEYK6V,0.6733,16,6,0.5625,0.6049223885562814,1,6 reviews in one day (burst)
+A3UOVTZ0NKCQDL,0.6723,6,6,0.5,0.3277336373458253,1,6 reviews in one day (burst)
+A1NRC1QV6O3XR7,0.6721,22,19,0.8636363636363636,0.5673754167042057,0,19 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A1J2S9S23JDQED,0.6712,12,6,0.5,0.6206891040582959,1,6 reviews in one day (burst)
+A1XB7JGJ459ERP,0.6712,34,10,0.7647058823529411,0.5992920076717837,0,10 reviews in one day (burst)
+A3AIBJ1EKW4AZ4,0.6702,10,6,0.8,1.170472353568598,1,6 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 1.17 stars from product mean
+A1PL7QILVQV3IF,0.6701,53,2,0.2830188679245283,0.5475444020020928,0,Multi-attribute behavioral anomaly pattern
+A25C2M3QF9G7OQ,0.67,161,4,0.7080745341614907,0.6627986398851681,0,4 reviews in one day (burst)
+A3UY2ZIAYCK4DQ,0.6699,19,14,0.9473684210526316,0.6774679014858347,0,14 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings
+A2HEAW34EOXR83,0.6698,6,1,1.0,1.1579958621625288,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.16 stars from product mean
+A1MNELDLD24CFC,0.6697,6,1,1.0,1.175017253278123,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.18 stars from product mean
+A225G2TFM76GYX,0.6696,99,4,0.6767676767676768,0.658009250993697,0,4 reviews in one day (burst)
+A2UNEEEJNHGS2D,0.6696,11,1,0.3636363636363636,0.6162582367127821,1,Multi-attribute behavioral anomaly pattern
+AJBHBY6FHBP5N,0.6696,25,5,0.72,0.7168176346849069,1,5 reviews in one day (burst)
+A18S2VGUH9SCV5,0.6692,90,2,0.4222222222222222,0.6569359229157142,0,Multi-attribute behavioral anomaly pattern
+A2CRZP89XOHVKK,0.6692,5,1,0.8,0.2477687157321025,1,80% extreme (1 or 5 star) ratings
+A5K5DIDKAML5C,0.6691,25,2,0.56,0.6298332653615242,1,Multi-attribute behavioral anomaly pattern
+A35WINR58PK2NS,0.669,8,3,0.375,1.6305601294963354,1,Rating deviation 1.63 stars from product mean
+A2JO3BYTZWP6CE,0.669,10,8,0.8,0.8656847657701633,1,8 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A7657U6RAV1BX,0.6687,17,6,0.7058823529411765,0.9200201068007526,1,6 reviews in one day (burst) | Rating deviation 0.92 stars from product mean
+ALIN01RFOIX3G,0.6684,5,4,0.2,1.1559593280282936,1,4 reviews in one day (burst) | Rating deviation 1.16 stars from product mean
+A3OXZEQ7WZNKER,0.6681,7,7,0.4285714285714285,0.5373788430060269,1,7 reviews in one day (burst)
+A2VLK05BC8OTRQ,0.6679,5,1,1.0,1.2405557212446563,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.24 stars from product mean
+A6SZZSMX7DQG1,0.6677,19,3,0.8421052631578947,1.0843558946557927,1,84% extreme (1 or 5 star) ratings | Rating deviation 1.08 stars from product mean
+A236XRE6MLXPKY,0.6675,18,5,0.5555555555555556,0.5250924116362478,1,5 reviews in one day (burst)
+A6VXZ1EEPRTLV,0.6674,90,3,0.4111111111111111,0.7217875115882498,0,Multi-attribute behavioral anomaly pattern
+A1W9QAREHO70U4,0.667,27,12,0.5555555555555556,0.6785780529865938,0,12 reviews in one day (burst)
+ADJMETBPYJL7Q,0.6666,14,2,0.2142857142857142,0.6963471542617522,1,Multi-attribute behavioral anomaly pattern
+A3510RM2GZ61QS,0.666,7,7,1.0,0.9615635699703154,1,7 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 0.96 stars from product mean
+A1M4YBXBDEJLFL,0.666,7,7,1.0,0.9478795976817084,1,7 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 0.95 stars from product mean
+A2TM97N0X3DM7D,0.6659,16,2,0.8125,1.2693575861059585,1,81% extreme (1 or 5 star) ratings | Rating deviation 1.27 stars from product mean
+A3CA5SBRLFJUC1,0.6656,5,1,0.4,1.169277180406213,1,Rating deviation 1.17 stars from product mean
+A1MDE3K9M63KZV,0.6654,5,5,1.0,1.2560485933503835,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.26 stars from product mean
+A1LBIDUUYWG4ZK,0.6649,7,1,0.5714285714285714,1.393274824798859,1,Rating deviation 1.39 stars from product mean
+A3MFU0GVZUVH3K,0.6644,22,2,0.7727272727272727,0.7778366263817091,1,Multi-attribute behavioral anomaly pattern
+A1H04ULNBSVX2Q,0.6641,11,6,1.0,0.7575631028168165,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A23ZNGL704AW7O,0.6636,65,5,0.6307692307692307,0.6701489750259086,0,5 reviews in one day (burst)
+A1VEELTKS8NLZB,0.6636,42,6,0.3809523809523809,0.9317855997801816,0,6 reviews in one day (burst) | Rating deviation 0.93 stars from product mean
+A3BTDFZI3FT6I7,0.6631,18,4,0.7777777777777778,0.7836215127517767,1,4 reviews in one day (burst)
+A2XXCCT0TBVDIE,0.6628,18,13,0.3888888888888889,0.7499038685729228,0,13 reviews in one day (burst)
+A23BL0Y36R3ZD3,0.6627,19,5,0.8421052631578947,0.7694214898828085,1,5 reviews in one day (burst) | 84% extreme (1 or 5 star) ratings
+A173814OIKA2OY,0.6624,16,6,0.625,0.6721760151574766,1,6 reviews in one day (burst)
+A1BB6P6IKXY1I8,0.6619,10,1,0.7,1.443278802233713,1,Rating deviation 1.44 stars from product mean
+A1FHUYGO3OWWRF,0.6618,23,2,0.782608695652174,0.7622847783361727,1,Multi-attribute behavioral anomaly pattern
+A6S9AKRSORG2G,0.6614,14,5,0.9285714285714286,0.6064945357315834,1,5 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+ALY0PX65WSYZC,0.6612,18,1,0.8888888888888888,2.486665648815018,0,88% extreme (1 or 5 star) ratings | Rating deviation 2.49 stars from product mean
+A174P9KKDTL25G,0.6607,5,1,0.2,0.834200670214863,1,Multi-attribute behavioral anomaly pattern
+A20403BR0K7VM8,0.6605,19,4,0.5263157894736842,0.9376401558967348,1,4 reviews in one day (burst) | Rating deviation 0.94 stars from product mean
+A4YV49T8Y0X94,0.6604,6,1,0.3333333333333333,0.3888802785965676,1,Multi-attribute behavioral anomaly pattern
+A1UFVCXS7GX449,0.66,11,5,0.3636363636363636,0.6899040481125231,1,5 reviews in one day (burst)
+A12WNOF88S894E,0.6597,11,7,0.8181818181818182,0.4103354781136834,1,7 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A178M2AHNWQZB0,0.6597,37,8,0.945945945945946,0.5923202222213076,0,8 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings
+A2GC5B79QJ5S6H,0.6592,15,6,0.6666666666666666,0.5723222359601794,1,6 reviews in one day (burst)
+A3I0I0YHZB013F,0.6588,27,3,0.6666666666666666,0.6539449748818268,1,Multi-attribute behavioral anomaly pattern
+A3E0XBS2HKQRVN,0.6584,16,15,0.4375,0.9863624706691728,0,15 reviews in one day (burst) | Rating deviation 0.99 stars from product mean
+A1XDMYX8QOW07N,0.658,20,2,0.45,0.8291961903528605,1,Multi-attribute behavioral anomaly pattern
+A3QSM5XHPL1T6Y,0.6579,5,1,0.4,0.4902380952380952,1,Multi-attribute behavioral anomaly pattern
+AOJW1NEG3A13Y,0.6579,9,1,0.8888888888888888,1.1413537375263796,1,88% extreme (1 or 5 star) ratings | Rating deviation 1.14 stars from product mean
+A1ZM846Y7AUYD,0.6572,47,3,0.3404255319148936,0.4934765511244489,0,Multi-attribute behavioral anomaly pattern
+A1D2GOXZ3K5W3I,0.6571,17,14,1.0,0.4854554622345313,0,14 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AOH3SU7NAQFAX,0.6567,9,1,0.7777777777777778,1.3436987295636027,1,Rating deviation 1.34 stars from product mean
+A22VNXHU6IZ5MT,0.6563,23,2,0.6521739130434783,0.9507806714945792,1,Rating deviation 0.95 stars from product mean
+A3VSHLS9K329RP,0.656,21,20,0.6666666666666666,0.6173467085073991,0,20 reviews in one day (burst)
+A3DWVJFUMLPYDA,0.656,9,7,0.8888888888888888,0.8935031355848034,1,7 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A1WO2HOAXT5J8H,0.6556,11,7,0.5454545454545454,0.7288183755087076,1,7 reviews in one day (burst)
+A3D7YSUWYQW9MK,0.6555,19,3,0.9473684210526316,0.6007140837023893,1,94% extreme (1 or 5 star) ratings
+A2YWT1Z459TX2Z,0.6554,9,2,0.2222222222222222,0.336131519206954,1,Multi-attribute behavioral anomaly pattern
+A1BQ0HTG3C53IH,0.6552,18,17,0.8888888888888888,0.6639467253330764,0,17 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A2ZJMLZ1IA2YA9,0.6549,19,3,0.4210526315789473,0.7810010016930302,1,Multi-attribute behavioral anomaly pattern
+A2L8NERGVGD7NV,0.6548,11,6,0.9090909090909092,0.4927014580098752,1,6 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings
+A180GT4JL6MXKV,0.6547,9,9,0.7777777777777778,0.549485596707819,1,9 reviews in one day (burst)
+A7C85BP9H7UGE,0.6547,11,4,0.3636363636363636,1.2968985222459233,1,4 reviews in one day (burst) | Rating deviation 1.30 stars from product mean
+A20QO5I08JQZE2,0.6545,8,5,0.5,1.3532211494290145,1,5 reviews in one day (burst) | Rating deviation 1.35 stars from product mean
+A1LD5SE8IZ1H70,0.6545,55,4,0.7636363636363637,1.025800706399008,0,4 reviews in one day (burst) | Rating deviation 1.03 stars from product mean
+A3CWEK9HY2VPDL,0.6541,23,2,0.4782608695652174,0.8706317410033841,1,Multi-attribute behavioral anomaly pattern
+A2SLT4L9C7W5LM,0.6537,13,6,0.8461538461538461,0.6198745375509851,1,6 reviews in one day (burst) | 84% extreme (1 or 5 star) ratings
+A3O4B7VGPSAH76,0.6534,10,6,1.0,0.7226666124910837,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AMINF18H9ZF21,0.6532,15,2,1.0,0.9574198251874598,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.96 stars from product mean
+APRJDKS9CHS61,0.653,15,1,0.7333333333333333,0.8339870236071728,1,Multi-attribute behavioral anomaly pattern
+AAHHLNG0XHRIP,0.6529,8,8,0.625,0.4767818061568062,1,8 reviews in one day (burst)
+A1VFX417XDNWIU,0.6527,53,2,0.3584905660377358,0.6182434555549826,0,Multi-attribute behavioral anomaly pattern
+A34C98SJU4M7DD,0.6526,23,2,0.4782608695652174,0.7152456987616513,1,Multi-attribute behavioral anomaly pattern
+A3F7F7QKQP2FKT,0.6524,29,11,0.7586206896551724,0.6841975681924011,0,11 reviews in one day (burst)
+A5KMMY627T3W,0.6517,76,4,0.75,0.7556344459827391,0,4 reviews in one day (burst)
+A40UTSS993WSK,0.6515,16,4,0.875,0.790112421634038,1,4 reviews in one day (burst) | 87% extreme (1 or 5 star) ratings
+A39FALMRTZ0K5J,0.6513,18,18,0.8333333333333334,0.4045596880114906,0,18 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A2PO4RRGNWDLH5,0.6508,12,6,0.6666666666666666,0.5336468322766033,1,6 reviews in one day (burst)
+A3SBL75CSO5PUK,0.6507,20,2,0.8,0.9757786832375605,1,80% extreme (1 or 5 star) ratings | Rating deviation 0.98 stars from product mean
+A9LNA3OQU3X7U,0.6505,14,4,0.9285714285714286,0.635864316122501,1,4 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A2O79E4NI6SKK9,0.6502,12,2,0.3333333333333333,0.4180273237328591,1,Multi-attribute behavioral anomaly pattern
+A3MPWONT80G4RQ,0.6499,16,2,1.0,0.5452421662182834,1,100% extreme (1 or 5 star) ratings
+AB0ZI13CLWPL6,0.6498,6,1,1.0,0.3591088376421732,1,100% extreme (1 or 5 star) ratings
+A3I37YQFNO548K,0.6482,15,13,1.0,1.0440515648895468,0,13 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.04 stars from product mean
+A1QBEIP8CVP8FG,0.6482,9,5,0.8888888888888888,1.3019281596867802,1,5 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings | Rating deviation 1.30 stars from product mean
+A21KM4P1KARP57,0.6472,10,6,0.5,0.8819641109545276,1,6 reviews in one day (burst)
+A1415U52KHEJ14,0.6468,17,13,0.4117647058823529,0.7772092773538433,0,13 reviews in one day (burst)
+A2RGWM5OACPAFT,0.6465,6,3,1.0,0.2659270804571683,1,100% extreme (1 or 5 star) ratings
+A377CKA2MEIR54,0.6461,10,6,0.5,0.5265135878564237,1,6 reviews in one day (burst)
+A16AXQ11SZA8SQ,0.6457,22,3,0.5,0.7359082670025436,1,Multi-attribute behavioral anomaly pattern
+A35EIZ0JS0DNOC,0.6453,16,4,0.875,0.5432110447837213,1,4 reviews in one day (burst) | 87% extreme (1 or 5 star) ratings
+A19PU25XXOA33T,0.645,18,12,0.3888888888888889,0.5944948501912852,0,12 reviews in one day (burst)
+A2IYN1DD7BRBC1,0.6448,10,6,1.0,0.5264451820639293,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2QAQAPX153LTG,0.6448,15,5,0.8666666666666667,0.6291527328018239,1,5 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A2DJJ0QOB6QCEU,0.6448,6,5,0.1666666666666666,0.8531009953890812,1,5 reviews in one day (burst)
+AZAC8O310IK4E,0.6447,84,4,0.5952380952380952,0.7306036897505305,0,4 reviews in one day (burst)
+AF3VJ2YW3BB92,0.6445,6,3,1.0,0.2861457297958559,1,100% extreme (1 or 5 star) ratings
+A2GMZZ6TDYOHY7,0.6443,43,7,0.813953488372093,0.5749992402946525,0,7 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A1LN1BE872K7DH,0.6443,5,2,1.0,1.5164021164021164,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.52 stars from product mean
+A1FZNDLAB1BWB2,0.6439,7,1,1.0,3.403688215987964,0,100% extreme (1 or 5 star) ratings | Rating deviation 3.40 stars from product mean
+A2GYV0FI2GZ52C,0.6439,9,7,0.8888888888888888,0.7702562606591129,1,7 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A1KY25HG3D9NWB,0.6436,23,3,0.7391304347826086,0.799690088711973,1,Multi-attribute behavioral anomaly pattern
+A2LJ1M369ZQB7R,0.6429,28,11,0.8571428571428571,0.6098042291470102,0,11 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+A12S8UQEIPZJKE,0.6425,22,2,0.6363636363636364,0.6892284186401835,1,Multi-attribute behavioral anomaly pattern
+ALVO51HPY14QX,0.6423,5,1,0.4,0.672787071316483,1,Multi-attribute behavioral anomaly pattern
+A2MUFVNWMVN9C9,0.6421,16,5,0.8125,0.5667758090394017,1,5 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A1OZ7I3DESX9NP,0.6415,24,12,0.8333333333333334,0.646028357577747,0,12 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A337UU54VPYJLP,0.6412,10,5,0.4,0.7046351364220907,1,5 reviews in one day (burst)
+A2DDTHUPCXB6Y,0.6412,11,1,0.8181818181818182,0.3831204679176282,1,81% extreme (1 or 5 star) ratings
+ARTA78TP6H73D,0.641,45,1,0.3777777777777777,0.5373514295808445,0,Multi-attribute behavioral anomaly pattern
+A3LUJDFUYGZNV2,0.6407,9,6,0.8888888888888888,1.034237463464266,1,6 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings | Rating deviation 1.03 stars from product mean
+AIWM3C7MT397S,0.6402,6,6,0.6666666666666666,0.3390620775712382,1,6 reviews in one day (burst)
+A2TL8K0XURO82Q,0.64,7,3,0.5714285714285714,1.5840734745000395,1,Rating deviation 1.58 stars from product mean
+AJA8ABXYA9B5O,0.64,15,5,0.8666666666666667,0.7457191301922494,1,5 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A1NDHLQN0K23QK,0.6395,13,3,1.0,0.5389014561398469,1,100% extreme (1 or 5 star) ratings
+A2N4QZ92NBKJZZ,0.6393,8,1,1.0,2.651892006802721,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.65 stars from product mean
+A2YW6XOID7GV6G,0.6386,37,6,0.3513513513513513,0.9671648216970488,0,6 reviews in one day (burst) | Rating deviation 0.97 stars from product mean
+A2ECLEVAXGZQT7,0.6377,8,8,1.0,0.5711377528019644,1,8 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3D2XMRV8DSK3J,0.6376,14,5,0.8571428571428571,0.9050840384797608,1,5 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings | Rating deviation 0.91 stars from product mean
+A1PYFY92I3QXPG,0.6372,13,4,0.8461538461538461,0.3920249670847203,1,4 reviews in one day (burst) | 84% extreme (1 or 5 star) ratings
+A2FJHPHGEKN986,0.6372,8,6,0.875,1.1389275295716113,1,6 reviews in one day (burst) | 87% extreme (1 or 5 star) ratings | Rating deviation 1.14 stars from product mean
+ATUYQK90VSGKC,0.6369,16,16,1.0,0.6479584896249211,0,16 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2MC05CQGEXRDS,0.6366,5,3,0.4,1.4377586938936986,1,Rating deviation 1.44 stars from product mean
+A300MWWJMG56B3,0.6364,5,1,1.0,1.114175654853621,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.11 stars from product mean
+A3QG1KCB8HB5AQ,0.6359,23,15,0.782608695652174,0.6864151826883323,0,15 reviews in one day (burst)
+A1QEIN7ZPVI32X,0.6355,6,1,0.3333333333333333,0.6175513153266212,1,Multi-attribute behavioral anomaly pattern
+A3NZGQ0RG93ZAG,0.6354,6,6,1.0,0.9261805587105436,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A3AB7K0YC972U4,0.6352,5,4,1.0,1.2097747612050715,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.21 stars from product mean
+AIJJ8WUEGRYH1,0.6347,11,6,0.8181818181818182,0.8700444565431611,1,6 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+AZCE11PSTCH1L,0.6347,31,10,0.7741935483870968,0.7725451422179779,0,10 reviews in one day (burst)
+A3MGPKTHSKRFUW,0.6343,5,5,1.0,1.040104800540906,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.04 stars from product mean
+A1741583PWMYLQ,0.6338,14,3,0.4285714285714285,0.8559377032545824,1,Multi-attribute behavioral anomaly pattern
+A25Q4C2UDIOPXC,0.6337,23,9,0.3043478260869565,0.9526741321499514,0,9 reviews in one day (burst) | Rating deviation 0.95 stars from product mean
+A336FE20YZZL3A,0.6336,9,1,1.0,0.6641273849607183,1,100% extreme (1 or 5 star) ratings
+A3J2N3MC99CLB3,0.6331,15,2,0.4,0.642790138203427,1,Multi-attribute behavioral anomaly pattern
+A2SOQ3OK9D8DA2,0.6326,5,5,1.0,2.7032128514056226,0,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 2.70 stars from product mean
+A2T4XPDLZBP7XN,0.6325,22,15,0.6818181818181818,0.7281077302314642,0,15 reviews in one day (burst)
+A3T6HX48F66512,0.6322,14,2,0.4285714285714285,0.5748535127067751,1,Multi-attribute behavioral anomaly pattern
+AXOY9UHP9HJNX,0.6321,18,14,0.8888888888888888,0.5509765605933026,0,14 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A2Y739CRM15WDL,0.631,49,2,0.2653061224489796,0.6423496830729196,0,Multi-attribute behavioral anomaly pattern
+A33YZNZIRA3H97,0.6308,78,3,0.4615384615384615,0.7982457129601638,0,Multi-attribute behavioral anomaly pattern
+A1E55W6ES0FY17,0.6302,46,4,0.8260869565217391,1.2496432162925508,0,4 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings | Rating deviation 1.25 stars from product mean
+A3SG2N77KI8365,0.6301,5,3,1.0,1.4283984028393966,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.43 stars from product mean
+A1FJCSE3KW2DSE,0.63,7,3,0.5714285714285714,1.484912298824815,1,Rating deviation 1.48 stars from product mean
+A3XGHG3XSPSWJ,0.6299,13,11,0.3846153846153846,1.192654901606344,0,11 reviews in one day (burst) | Rating deviation 1.19 stars from product mean
+A2QRW6IQ7CSK5G,0.6298,17,3,0.5294117647058824,0.974028862429796,1,Rating deviation 0.97 stars from product mean
+A1IZQ3OT6ST6IX,0.6297,10,5,0.8,1.107826913750627,1,5 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 1.11 stars from product mean
+A3E9857YP2TYEN,0.6296,20,13,0.65,0.8203548698879558,0,13 reviews in one day (burst)
+A2K9XFC31BCR5C,0.6294,17,12,0.4117647058823529,0.6865915120831781,0,12 reviews in one day (burst)
+A40JKC4FZMPGI,0.6293,17,12,0.8823529411764706,1.039732263234547,0,12 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings | Rating deviation 1.04 stars from product mean
+A2TNWUOVW8OIX,0.6292,17,13,0.8235294117647058,1.144654480352396,0,13 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings | Rating deviation 1.14 stars from product mean
+A1JH4RE328VB3K,0.6291,11,2,0.9090909090909092,0.7422667718309157,2,90% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A24B990VP9QC6C,0.6291,19,2,0.5789473684210527,0.6341088883852042,1,Multi-attribute behavioral anomaly pattern
+A24DD13939UP52,0.629,5,5,0.8,0.3282169424559466,1,5 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A2PIAYX0E3OVDG,0.629,5,4,0.4,0.4356215509678078,1,4 reviews in one day (burst)
+ABI1V8YHNUK87,0.629,9,6,0.7777777777777778,0.3735269477246739,1,6 reviews in one day (burst)
+A1T8N18XKDLJO4,0.6284,7,1,0.4285714285714285,0.704053262920258,1,Multi-attribute behavioral anomaly pattern
+A3EQRG0AYCU91N,0.6283,9,7,0.8888888888888888,0.7086146329321719,1,7 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+AX7SZ0O08N48E,0.6281,10,6,0.7,0.9515181771633384,1,6 reviews in one day (burst) | Rating deviation 0.95 stars from product mean
+A2YORCT7S58Y39,0.628,9,5,0.7777777777777778,0.4472170535331392,2,5 reviews in one day (burst) | Participated in 2 product rating spikes
+A1PLSNRNVDK504,0.6276,7,7,0.7142857142857143,0.837629227990908,1,7 reviews in one day (burst)
+A1RBEYAMTN4R64,0.6275,14,3,0.9285714285714286,0.7609686435239053,1,92% extreme (1 or 5 star) ratings
+A1P0K1U0DNQV73,0.6275,6,1,1.0,0.604024999449836,1,100% extreme (1 or 5 star) ratings
+A1S011SMHQ4Y1G,0.6265,10,1,0.9,0.738151873121365,1,90% extreme (1 or 5 star) ratings
+A1PVX61PRPVX27,0.6261,30,10,0.8666666666666667,0.6801520000798826,0,10 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A2QL3AISOKZCX3,0.6259,15,3,0.6,1.0592780897356375,1,Rating deviation 1.06 stars from product mean
+A1V0EN4LERJJGZ,0.6259,5,1,1.0,0.6227996274804786,1,100% extreme (1 or 5 star) ratings
+A1TAN8P8VCFPNA,0.6259,5,1,1.0,0.6511977935382192,1,100% extreme (1 or 5 star) ratings
+A2FO3WE9MBLDY2,0.6258,6,1,1.0,0.7210549710238334,1,100% extreme (1 or 5 star) ratings
+A3EKILCI3RJKTX,0.6257,6,3,1.0,0.301945322561761,1,100% extreme (1 or 5 star) ratings
+ATGZRB5HB3TLM,0.6255,7,5,0.2857142857142857,0.7523262100924485,1,5 reviews in one day (burst)
+A2Q8YOYXC8892R,0.6255,8,7,1.0,0.7363841092210134,1,7 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1UEQ4RFJBMGYJ,0.6251,42,6,0.4285714285714285,0.7364928228286131,0,6 reviews in one day (burst)
+A11EEK26EYITTX,0.6249,5,5,0.6,0.3526156230517285,1,5 reviews in one day (burst)
+A3AKZ3BL9SVBCU,0.6246,11,3,0.8181818181818182,1.2871752650894095,1,81% extreme (1 or 5 star) ratings | Rating deviation 1.29 stars from product mean
+A2QCO6PGQPENZK,0.6245,7,5,1.0,1.0915004121605758,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.09 stars from product mean
+APN3EN8KYQZZB,0.6243,6,1,1.0,2.75465367965368,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.75 stars from product mean
+A25JUE9AFX7SUC,0.6242,20,13,0.75,0.8128055564697807,0,13 reviews in one day (burst)
+A2ZM7O40B01QJ6,0.6238,5,1,1.0,0.6423793023793023,1,100% extreme (1 or 5 star) ratings
+A3SLRAY7SYG0WY,0.6238,5,1,1.0,0.6452579987062744,1,100% extreme (1 or 5 star) ratings
+A3DWO5RJDA430F,0.6234,60,4,0.5833333333333334,0.8695624211371655,0,4 reviews in one day (burst)
+A30R6CO2E87H0R,0.6234,6,6,0.8333333333333334,1.0333163554046407,1,6 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings | Rating deviation 1.03 stars from product mean
+A2ICKE6A3MJMM5,0.6233,17,3,0.4705882352941176,0.7629961932054019,1,Multi-attribute behavioral anomaly pattern
+ALC6LWQXBHIPG,0.623,7,1,0.4285714285714285,0.5751466275659823,1,Multi-attribute behavioral anomaly pattern
+A3ROWBJW70FJF,0.6227,30,9,0.7333333333333333,0.4736581966217247,0,9 reviews in one day (burst)
+A1KAEJVLGKQ0PB,0.6226,6,6,0.5,0.6933720223835658,1,6 reviews in one day (burst)
+A3A7Y3TSPPZU9T,0.6222,13,2,1.0,0.7598585849241861,1,100% extreme (1 or 5 star) ratings
+A1O22UA181NUXO,0.6222,18,10,0.2222222222222222,0.5980862333244341,0,10 reviews in one day (burst)
+AIWDGRTLV7IQF,0.6222,12,1,0.5833333333333334,0.6455788029960356,1,Multi-attribute behavioral anomaly pattern
+A3OE8046KWT42B,0.6219,5,1,0.4,0.9357142857142856,1,Rating deviation 0.94 stars from product mean
+AZ2WIB5P2QKOS,0.6217,14,3,0.7857142857142857,0.997505160412734,1,Rating deviation 1.00 stars from product mean
+AOOQCNY6ZXFPT,0.6217,9,1,0.8888888888888888,2.607813607319156,0,88% extreme (1 or 5 star) ratings | Rating deviation 2.61 stars from product mean
+A2E8FKPFV98B8T,0.6213,25,8,0.28,0.6367512708414629,0,8 reviews in one day (burst)
+A1YG045L8SBK6T,0.6212,6,6,1.0,0.7572180218581713,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A32TX0ZUK2VK3U,0.6209,10,5,1.0,0.5200490169074475,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2JE071UW97J2A,0.6209,67,3,0.835820895522388,0.6989827902735717,0,83% extreme (1 or 5 star) ratings
+A168KEHZ03AQDT,0.6209,17,12,1.0,0.733771635284335,0,12 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3LXENVI2AAAWL,0.6207,6,6,1.0,0.4689812767815715,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1LZC0L3YA72HU,0.6206,12,5,0.8333333333333334,0.5178865342934277,1,5 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A2O6WLMSNF5UMJ,0.6206,10,3,1.0,0.3711373566510646,1,100% extreme (1 or 5 star) ratings
+A3TQEF7QWHABGE,0.6202,18,14,0.6111111111111112,0.8943876723852533,0,14 reviews in one day (burst)
+A2PL7ZNZNA1S68,0.6195,11,4,0.6363636363636364,1.1053888640095535,1,4 reviews in one day (burst) | Rating deviation 1.11 stars from product mean
+A1435L5L25DGN1,0.6194,6,6,1.0,0.6100817735745093,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A36N61L5UHXSHI,0.6194,25,11,0.84,0.7584014159645441,0,11 reviews in one day (burst) | 84% extreme (1 or 5 star) ratings
+A3R59J6WB6INQB,0.6192,7,1,0.4285714285714285,0.5221993862236461,1,Multi-attribute behavioral anomaly pattern
+A3VZSX37QLKF68,0.6191,6,2,0.5,1.583653557208324,1,Rating deviation 1.58 stars from product mean
+A1PI8VBCXXSGC7,0.6186,44,2,0.2727272727272727,0.5308784489213328,0,Multi-attribute behavioral anomaly pattern
+A3JR66FUSQFHGH,0.6186,5,5,0.4,2.9278023381471656,0,5 reviews in one day (burst) | Rating deviation 2.93 stars from product mean
+A2RQOO8VYAEZZG,0.618,16,2,0.5625,0.8321091976827997,1,Multi-attribute behavioral anomaly pattern
+AOHNLSWSOLK8N,0.6179,18,3,0.6111111111111112,0.5690713512271813,1,Multi-attribute behavioral anomaly pattern
+A3R19YKNL641X3,0.6179,80,2,0.5375,0.6197222767375421,0,Multi-attribute behavioral anomaly pattern
+A3VED9GZ59WUV5,0.6176,9,1,1.0,0.8517719950249565,1,100% extreme (1 or 5 star) ratings
+A1IKFAV2NSEWUX,0.6164,13,2,0.3076923076923077,0.8557020772457271,1,Multi-attribute behavioral anomaly pattern
+A25YXA3X6M5B5A,0.6164,6,1,0.8333333333333334,1.058537603075418,1,83% extreme (1 or 5 star) ratings | Rating deviation 1.06 stars from product mean
+A1930DWCIQQKYI,0.6161,16,3,0.75,0.4853640545991573,1,Multi-attribute behavioral anomaly pattern
+A2L3ZOXJL8OR9G,0.616,5,1,1.0,2.9686868686868686,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.97 stars from product mean
+A1MMJMUYJQKZES,0.616,5,1,1.0,2.9857142857142858,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.99 stars from product mean
+A326CJOIAVMKIR,0.6158,11,5,0.5454545454545454,0.598286582705139,1,5 reviews in one day (burst)
+A28RBRJAP7L6PD,0.6158,11,11,0.2727272727272727,1.1855034089755372,0,11 reviews in one day (burst) | Rating deviation 1.19 stars from product mean
+A3GS12USHLMPR4,0.6157,19,19,0.7368421052631579,0.6370988091579148,0,19 reviews in one day (burst)
+A1PJPEKAZWRU62,0.6157,10,4,0.9,0.3931856478671475,1,4 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings
+A11KZ906QD08C5,0.6156,124,3,0.7338709677419355,0.7596352335595706,0,Multi-attribute behavioral anomaly pattern
+AULRJZWFX7VBB,0.6154,5,1,1.0,1.031851851851852,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.03 stars from product mean
+ARH371SGCNEQE,0.6152,5,2,1.0,1.287317447258624,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.29 stars from product mean
+A2M79WB6IX1XUO,0.6151,5,1,0.8,1.1984006224457289,1,80% extreme (1 or 5 star) ratings | Rating deviation 1.20 stars from product mean
+A3MECTXMXYC8XZ,0.615,6,1,0.5,0.3834417193112844,1,Multi-attribute behavioral anomaly pattern
+A2FIFJ7NXALJGE,0.615,7,3,0.7142857142857143,0.2906178238716843,1,Multi-attribute behavioral anomaly pattern
+AHRHARRRG24QU,0.6149,5,1,1.0,0.5263122385840437,1,100% extreme (1 or 5 star) ratings
+A2YMH80NS16MQ8,0.6149,15,15,0.8666666666666667,0.374321720607953,0,15 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A3IUW081KXD3PE,0.6144,42,5,0.4523809523809524,0.612741686903174,0,5 reviews in one day (burst)
+AN85G70HW0YQH,0.6142,19,3,0.2631578947368421,1.8778404200081016,0,Rating deviation 1.88 stars from product mean
+A1FV7W4SZD9BVO,0.614,16,16,0.5,0.7847879409791431,0,16 reviews in one day (burst)
+A230ZQN0658722,0.6132,13,3,0.7692307692307693,0.579274253788036,1,Multi-attribute behavioral anomaly pattern
+A8PVY0TEPYZV6,0.613,5,4,1.0,3.2166098191214467,0,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 3.22 stars from product mean
+A22HDITL5OS7KE,0.6128,6,1,0.5,1.0489434400724722,1,Rating deviation 1.05 stars from product mean
+AECFRE7C0CCLU,0.6127,16,11,0.3125,0.5751691397485001,0,11 reviews in one day (burst)
+A1J0QBNY8OPOD0,0.6125,5,1,1.0,2.8907602339181286,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.89 stars from product mean
+A3I98FCRUS9L72,0.6125,6,2,1.0,1.1919953503286838,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.19 stars from product mean
+A2I9ZH5CM8RFRA,0.6124,6,1,0.6666666666666666,1.1965145965145965,1,Rating deviation 1.20 stars from product mean
+A31DVKL8JE4XAH,0.6123,5,1,1.0,1.0209453436547031,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.02 stars from product mean
+A2C6DOEV3JWJO4,0.6119,17,2,0.5294117647058824,0.5826549111571685,1,Multi-attribute behavioral anomaly pattern
+A28XEHA0BN9OUB,0.6117,6,2,0.3333333333333333,0.3820563625734984,1,Multi-attribute behavioral anomaly pattern
+A1XKDG88WVMIFK,0.6116,5,4,1.0,1.0761229000884174,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.08 stars from product mean
+AMWXJ5YS0WFBS,0.6115,6,6,0.5,0.5606845315976919,1,6 reviews in one day (burst)
+A16MAT54GTKJYS,0.6112,18,9,0.2222222222222222,0.485965733266707,0,9 reviews in one day (burst)
+A2RNMSNX5Y5J3T,0.6105,11,1,0.7272727272727273,0.6004329004329004,1,Multi-attribute behavioral anomaly pattern
+A2WZVWFVVI8BF0,0.6101,5,3,0.2,0.9608983935520758,1,Rating deviation 0.96 stars from product mean
+A1IJQKOKZQVRLT,0.6101,7,6,1.0,0.6804095381502169,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AWXO4UAEUGUCL,0.6099,5,5,1.0,0.65210688444731,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3D9BTRM4JOU41,0.6098,5,1,0.8,1.1160122664221024,1,80% extreme (1 or 5 star) ratings | Rating deviation 1.12 stars from product mean
+A1HKG0O3ET1F2R,0.6096,19,12,0.5263157894736842,0.6340415231982484,0,12 reviews in one day (burst)
+A3QK41IM3X2CUF,0.6094,12,5,0.5833333333333334,0.6587599855769837,1,5 reviews in one day (burst)
+A2MEC0T7Q65C7S,0.6087,15,3,0.8,0.7870791111442135,1,80% extreme (1 or 5 star) ratings
+AP9MD16WV9NYA,0.6071,5,1,0.8,0.4275202915640074,1,80% extreme (1 or 5 star) ratings
+AE097AM7851QN,0.607,27,9,0.925925925925926,0.6256896122031603,0,9 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A3A4SO0D56D538,0.6067,6,6,0.8333333333333334,0.9165789256368968,1,6 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings | Rating deviation 0.92 stars from product mean
+A1J5HIF41ENSMZ,0.6064,40,2,0.225,0.5115144709159961,0,Multi-attribute behavioral anomaly pattern
+A1AN8720TXNMLI,0.6062,9,6,0.8888888888888888,0.6316871175059257,1,6 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A3CDG4XCEKIFEU,0.6059,5,5,1.0,0.7106930358350236,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A22FBT99XFBTW3,0.6059,6,2,0.6666666666666666,1.5621733416852994,1,Rating deviation 1.56 stars from product mean
+AUCISQA1YXX86,0.6058,24,1,0.2083333333333333,1.5015254397514737,0,Rating deviation 1.50 stars from product mean
+AQ831E972J4VI,0.6058,10,2,0.7,1.465007850963559,1,Rating deviation 1.47 stars from product mean
+A2W3B8UA45I25Q,0.6057,9,6,0.8888888888888888,0.5645987400452496,1,6 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+AJX9A4Q19UTJU,0.6056,55,3,0.5272727272727272,0.5732460500105356,0,Multi-attribute behavioral anomaly pattern
+AZOSIAZRRQLRS,0.6055,5,2,1.0,0.3079554425722716,1,100% extreme (1 or 5 star) ratings
+A16OU6WSH4KO3N,0.6053,11,3,0.9090909090909092,0.5405503114010692,1,90% extreme (1 or 5 star) ratings
+A3UXW18DP4WSD6,0.6052,41,5,0.8292682926829268,0.5083748455364033,0,5 reviews in one day (burst) | 82% extreme (1 or 5 star) ratings
+A1ASWDAEDTTY5I,0.6052,36,8,0.6111111111111112,0.8289111187889919,0,8 reviews in one day (burst)
+AAUZ79CDTSVCP,0.605,16,16,0.875,0.5030712298916544,0,16 reviews in one day (burst) | 87% extreme (1 or 5 star) ratings
+AIIBD0NIYCK5K,0.6049,18,11,0.4444444444444444,0.9068305705086908,0,11 reviews in one day (burst) | Rating deviation 0.91 stars from product mean
+A3K6Z80X3DK8OV,0.6049,16,14,0.8125,0.3829427622564146,0,14 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A19NP8YYADOOSF,0.6046,58,3,0.4827586206896552,0.9039377389337498,0,Rating deviation 0.90 stars from product mean
+A34NI8DC5AAE2W,0.6042,19,13,0.8421052631578947,0.4947347228257502,0,13 reviews in one day (burst) | 84% extreme (1 or 5 star) ratings
+A8M1ZR6XTSMDY,0.6041,8,6,0.5,0.5486794725401252,1,6 reviews in one day (burst)
+A35DCM2NQ1DNER,0.604,5,2,1.0,1.2197378392217104,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.22 stars from product mean
+A2OJDXF5WEZG6D,0.6039,7,2,1.0,0.6813382026952718,2,100% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A209G57KXCBF4C,0.6037,40,3,0.15,0.7258657057303418,0,Multi-attribute behavioral anomaly pattern
+A3GCWRUCFAMZF5,0.6037,12,3,1.0,0.911400536067486,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.91 stars from product mean
+A3DECRYWZZM0SO,0.6035,30,8,0.5,0.4579426469472155,0,8 reviews in one day (burst)
+A3U1NLCVPFM3KV,0.6035,10,4,0.4,0.6237353267126597,1,4 reviews in one day (burst)
+A3QTIH4K1OYIQI,0.603,12,3,0.5,0.6053734079540533,1,Multi-attribute behavioral anomaly pattern
+AIRZAEK6LLYQ,0.6029,12,3,0.5,0.6138595025741898,1,Multi-attribute behavioral anomaly pattern
+A3U3K3I2HJ1QPX,0.6028,7,6,1.0,0.5085409659981335,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3CS0GM5T5FFFM,0.6028,11,4,0.9090909090909092,0.6195101721654924,1,4 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings
+A3OXRK2TRTIDR6,0.6027,14,3,0.5714285714285714,0.6416961357335159,1,Multi-attribute behavioral anomaly pattern
+A2CNXS86JY4JV4,0.6027,29,9,0.7241379310344828,0.6280141403717943,0,9 reviews in one day (burst)
+A23LI4IGIGNV8H,0.6025,6,4,0.6666666666666666,0.3257939854703609,1,4 reviews in one day (burst)
+A2Z61J4CUFPBA7,0.6022,11,2,0.9090909090909092,0.5372503185929979,1,90% extreme (1 or 5 star) ratings
+A2XFGIOU6DQWMX,0.6021,13,3,0.8461538461538461,0.5670033246980576,1,84% extreme (1 or 5 star) ratings
+A2NUHWMHA9XNKV,0.6021,24,2,0.0,0.4965720653418313,0,Multi-attribute behavioral anomaly pattern
+A2LK7WJS4REDTQ,0.6018,10,3,0.6,1.3841729003223255,1,Rating deviation 1.38 stars from product mean
+A2L7F1XRZJ6K8G,0.6018,6,2,0.8333333333333334,1.439829589055595,1,83% extreme (1 or 5 star) ratings | Rating deviation 1.44 stars from product mean
+A2X11U5JCPGBAT,0.6017,10,4,0.9,0.927704981051663,1,4 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A2BX8DDQGCCG2J,0.6017,57,3,0.8771929824561403,0.8519996251632643,0,87% extreme (1 or 5 star) ratings
+A163X9BJ4G2WLH,0.6015,5,5,1.0,0.7189355742296921,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AUVWX0TO7M1EW,0.6015,15,15,0.9333333333333332,0.5879554087637059,0,15 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings
+A2K4QZUYQXKBOM,0.6013,7,1,0.8571428571428571,0.4175264656067727,1,85% extreme (1 or 5 star) ratings
+A2SDZU40PD9WSY,0.6013,7,5,0.4285714285714285,0.7817717973675273,1,5 reviews in one day (burst)
+A112Q77IXN1DNJ,0.6012,11,2,1.0,0.9336439571042188,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A2RIARU7CX5ZX8,0.6009,13,13,1.0,0.8512664526090401,0,13 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A68I27YTWAHAY,0.6008,17,15,0.8823529411764706,0.5702056178517791,0,15 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A1Q5ILYUGIB6XP,0.6008,8,3,0.375,1.2071750566203443,1,Rating deviation 1.21 stars from product mean
+A3O582NDVVNWSD,0.6004,6,5,1.0,0.4153574326427431,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2TCJYFNUFU5R6,0.6002,10,1,0.9,2.358355216212359,0,90% extreme (1 or 5 star) ratings | Rating deviation 2.36 stars from product mean
+A2D0PY6HIGTYIT,0.6001,11,2,1.0,0.4701456311199731,1,100% extreme (1 or 5 star) ratings
+A2F0MX3FT66GL1,0.6,20,10,0.5,1.132301401416417,0,10 reviews in one day (burst) | Rating deviation 1.13 stars from product mean
+A39OLM0L2VMN44,0.5998,11,2,1.0,0.5527864048992552,1,100% extreme (1 or 5 star) ratings
+A28NFIFQR9J008,0.5998,5,4,1.0,0.6170327015618496,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A111WCUF5KA2I6,0.5991,11,2,1.0,0.5780979497896349,1,100% extreme (1 or 5 star) ratings
+A2ZN4Z64QH3321,0.5983,13,2,0.7692307692307693,0.7241776514655484,1,Multi-attribute behavioral anomaly pattern
+A1W6QCUBVT26Z9,0.5982,5,5,1.0,0.5728556646251084,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A18MKVZDPEFYDB,0.5981,6,1,0.5,0.6344360485262595,1,Multi-attribute behavioral anomaly pattern
+ADF86HAB3K6EF,0.5981,9,1,0.7777777777777778,2.865691358733393,0,Rating deviation 2.87 stars from product mean
+A1QLMK517SKM6,0.5979,8,1,0.875,2.634761341089466,0,87% extreme (1 or 5 star) ratings | Rating deviation 2.63 stars from product mean
+AYIMQYSNJ96YS,0.5978,10,6,0.7,0.6974490389368452,1,6 reviews in one day (burst)
+A2AFFIW9KTDB8O,0.5977,14,14,1.0,0.5821904436923401,0,14 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3EQXYIGJPI497,0.5976,14,3,0.6428571428571429,0.7945162785731384,1,Multi-attribute behavioral anomaly pattern
+A213F1EGVVL2IB,0.5975,6,5,1.0,0.6807390011136683,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A37A77TEUCY1QL,0.5973,8,6,1.0,0.5253600505774421,1,6 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1MFAPVBW9BEGD,0.5973,45,3,0.6666666666666666,1.5098962937112128,0,Rating deviation 1.51 stars from product mean
+A248KGTZCTI93,0.5972,5,4,0.8,0.5713350985284383,2,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A1M2JTFHREYECK,0.5971,21,10,1.0,0.6187260018371381,0,10 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A278PMWYEJPAWT,0.5971,6,1,0.8333333333333334,0.666085551252894,1,83% extreme (1 or 5 star) ratings
+A1CB8HH9YJ2YZE,0.5969,31,8,0.6774193548387096,1.1873835521718672,0,8 reviews in one day (burst) | Rating deviation 1.19 stars from product mean
+A3R7EE1SEQJ728,0.5968,11,3,0.9090909090909092,0.7864899079448222,1,90% extreme (1 or 5 star) ratings
+A2V80ZROVHV2YT,0.5967,5,1,1.0,2.576428571428571,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.58 stars from product mean
+AYYEJHRZKBDTQ,0.5967,5,1,1.0,2.604761904761905,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.60 stars from product mean
+A3V6Z4RCDGRC44,0.5966,43,7,0.6976744186046512,0.738167917290191,0,7 reviews in one day (burst)
+AQSW6WDVCJGB8,0.596,13,2,0.5384615384615384,0.6175736216029257,1,Multi-attribute behavioral anomaly pattern
+A245847KYYDMSN,0.5957,19,3,0.6842105263157895,0.7514178994347046,1,Multi-attribute behavioral anomaly pattern
+AGPZ9FW0WD0PF,0.5952,5,1,0.8,0.5114833264841785,1,80% extreme (1 or 5 star) ratings
+ACRSBYVX737SS,0.5951,12,4,0.6666666666666666,0.628936505381518,1,4 reviews in one day (burst)
+AMK5ZFNWXTSDE,0.595,5,4,0.4,0.5985885449759463,1,4 reviews in one day (burst)
+A346BFBYE6DZAD,0.595,5,1,0.6,0.6394526798959103,1,Multi-attribute behavioral anomaly pattern
+A3UKIMS698FI6J,0.595,6,6,0.8333333333333334,0.6570305349776091,1,6 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+AOQOZUIJZ6J8B,0.5947,9,4,0.7777777777777778,0.7570386849585959,2,4 reviews in one day (burst) | Participated in 2 product rating spikes
+ARX7Z3NI6O0F7,0.5945,48,5,0.625,0.6753028034666215,0,5 reviews in one day (burst)
+A2CW6HY2ENGG3L,0.5945,8,1,0.875,0.6283853574047455,1,87% extreme (1 or 5 star) ratings
+A1TXEGO7534S83,0.5944,13,2,0.8461538461538461,0.7914691708527279,1,84% extreme (1 or 5 star) ratings
+A3OU1EOI9ESAJ1,0.5943,10,3,1.0,0.5851450704467946,1,100% extreme (1 or 5 star) ratings
+A1NL6VWOX2FCMW,0.5942,5,4,1.0,0.8119739721975744,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1V89BCRJHM889,0.5938,13,4,0.6923076923076923,0.5891024781539127,1,4 reviews in one day (burst)
+A6TBXL1JJXNMT,0.5934,6,2,0.1666666666666666,0.712049867999358,1,Multi-attribute behavioral anomaly pattern
+A1U5IJHJK84S54,0.5932,46,3,0.5,1.2098588738646523,0,Rating deviation 1.21 stars from product mean
+A1VB4T7YGD33J4,0.593,5,1,0.6,0.6231527313266445,1,Multi-attribute behavioral anomaly pattern
+A2HIVAA6PALLY0,0.5929,6,1,0.5,0.5648982786434643,1,Multi-attribute behavioral anomaly pattern
+A1L5W03GVEG7DE,0.5929,5,2,1.0,1.1446297273526824,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.14 stars from product mean
+A1B70ZEWQ6UH1A,0.5927,11,2,0.9090909090909092,0.552638814133206,1,90% extreme (1 or 5 star) ratings
+A1QBA7K3TPPEGV,0.5926,19,14,0.6842105263157895,0.7648056034509136,0,14 reviews in one day (burst)
+A1GR5BWCME810G,0.5925,7,4,0.2857142857142857,0.584338448428485,1,4 reviews in one day (burst)
+A2BJ9I0BQ1LH5S,0.5925,29,6,0.3103448275862069,0.8633381404178687,0,6 reviews in one day (burst)
+ABSYIF0ONC2AF,0.5925,49,3,0.5510204081632653,1.0397578973957573,0,Rating deviation 1.04 stars from product mean
+A18Z240JZC5A4M,0.5925,12,1,0.9166666666666666,2.274554363800687,0,91% extreme (1 or 5 star) ratings | Rating deviation 2.27 stars from product mean
+A2FFVTYZOKJ2SJ,0.592,10,3,1.0,0.6129380894443889,1,100% extreme (1 or 5 star) ratings
+A14H9KMAMC590S,0.5917,6,1,0.5,0.4734979838202834,1,Multi-attribute behavioral anomaly pattern
+A2RE3G11H65P4H,0.5917,5,4,0.8,1.1555518147874209,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 1.16 stars from product mean
+A25932ULAHQSB3,0.5913,18,13,0.7777777777777778,0.6710475169183825,0,13 reviews in one day (burst)
+A368Q44U8LKWNH,0.5913,10,3,0.4,0.5457726862216311,1,Multi-attribute behavioral anomaly pattern
+ARJ27NMILTKQ5,0.5912,27,8,1.0,0.6500891077771735,0,8 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A210XOF9K5HSHV,0.591,6,3,0.8333333333333334,0.3264880299678034,1,83% extreme (1 or 5 star) ratings
+A1SJCQKVGSHTZ4,0.591,24,11,0.75,0.5166050349901993,0,11 reviews in one day (burst)
+A3K4O1HILYDNU9,0.591,8,3,0.75,1.2538033497973655,1,Rating deviation 1.25 stars from product mean
+A1O0BF5XZNF315,0.5909,12,4,0.8333333333333334,0.6121886322560764,1,4 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A3GW8KCILR2E8L,0.5906,15,3,0.7333333333333333,0.8126090034046434,1,Multi-attribute behavioral anomaly pattern
+A1906A0LU2NT43,0.5906,18,8,0.1666666666666666,0.4379484967687134,0,8 reviews in one day (burst)
+A21EDMG94ID7D,0.5902,15,2,0.7333333333333333,0.7217598308971306,1,Multi-attribute behavioral anomaly pattern
+A1VVRW2FBRZ7AK,0.5902,9,6,0.6666666666666666,0.733962471256068,1,6 reviews in one day (burst)
+AS7KCCCL764O9,0.5901,12,4,0.6666666666666666,0.9485391221724652,1,4 reviews in one day (burst) | Rating deviation 0.95 stars from product mean
+A14O7JQPKJPUF6,0.5898,5,4,1.0,0.9875498975078216,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 0.99 stars from product mean
+A14G7W2YFFNM43,0.5895,5,3,1.0,2.989273182957393,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.99 stars from product mean
+A298M3XMKHWBQK,0.5892,8,3,1.0,0.5837060453863405,2,100% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+AQIX4NJD7ZP7M,0.5891,6,2,0.8333333333333334,0.9164086018114806,2,83% extreme (1 or 5 star) ratings | Rating deviation 0.92 stars from product mean | Participated in 2 product rating spikes
+A25ZPST6FXPU3Q,0.5888,5,1,0.6,0.5663768115942028,1,Multi-attribute behavioral anomaly pattern
+A6CXO60VYUKL9,0.5887,15,3,0.7333333333333333,0.6804652343289416,1,Multi-attribute behavioral anomaly pattern
+A3BIUVACFBRBGX,0.5886,11,5,0.8181818181818182,0.6494586936964846,1,5 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A2PMO6E76SR72O,0.5879,6,1,0.8333333333333334,0.9261138578078468,1,83% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A335713MZIGYB1,0.5878,10,2,0.8,1.1398324462431415,1,80% extreme (1 or 5 star) ratings | Rating deviation 1.14 stars from product mean
+A296QED1MV1V0J,0.5875,42,6,0.5,0.7805235149058545,0,6 reviews in one day (burst)
+A1BNJN6JB1PZC9,0.5875,6,1,0.1666666666666666,2.3820769100180867,0,Rating deviation 2.38 stars from product mean
+A2YND5M9WCFXID,0.5874,23,9,0.9130434782608696,0.3505471275478149,0,9 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings
+A4HITS9OE53AA,0.5873,10,3,0.6,0.4022212165990629,1,Multi-attribute behavioral anomaly pattern
+A23S1YJKGCQTZ6,0.5871,17,3,0.2352941176470588,1.852937106247702,0,Rating deviation 1.85 stars from product mean
+A1FKGHZYT64TYG,0.587,5,1,0.6,0.6592379930057655,1,Multi-attribute behavioral anomaly pattern
+A23V9XZWUFEWWX,0.5868,5,4,0.8,0.7563966528157868,2,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A35OKQRL9CP02K,0.5866,11,4,0.6363636363636364,0.8285179529368328,1,4 reviews in one day (burst)
+AL4SB31UAZLXL,0.5865,13,2,0.5384615384615384,0.6767420222728998,1,Multi-attribute behavioral anomaly pattern
+A1HNUWP2FNVOUN,0.5863,6,5,1.0,0.5072432493879933,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A39VG04UBAEZTI,0.5862,6,1,0.8333333333333334,0.5894972858154354,1,83% extreme (1 or 5 star) ratings
+A1LJ1L00Z8DBF3,0.5861,29,7,0.9310344827586208,0.5999068277656483,0,7 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings
+ABXANRX4GPYRZ,0.5857,49,3,0.7755102040816326,1.1285409857523871,0,Rating deviation 1.13 stars from product mean
+A1A1G5Y5D280ZA,0.5856,13,3,0.6153846153846154,0.8407252026207245,1,Multi-attribute behavioral anomaly pattern
+AMXOA0TC2QPF6,0.5855,5,1,0.8,0.589661220180664,1,80% extreme (1 or 5 star) ratings
+A2HITJWQ2HVEGR,0.5854,12,2,0.8333333333333334,0.6925232719500366,1,83% extreme (1 or 5 star) ratings
+A2V8LCUQZVJWTG,0.5854,6,6,0.8333333333333334,0.5999098066328769,1,6 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A1K3UWSYC88E7C,0.5853,6,6,0.6666666666666666,0.5739484664972484,1,6 reviews in one day (burst)
+A2YZZW6MQC1SVQ,0.5852,9,4,0.4444444444444444,0.6274775085774115,1,4 reviews in one day (burst)
+A3SNQ2R7WVE7I3,0.5846,5,2,1.0,0.3786248131539612,1,100% extreme (1 or 5 star) ratings
+A3PFLKE491X4AJ,0.5846,5,2,1.0,0.3795559067483277,1,100% extreme (1 or 5 star) ratings
+A2DHHUN5URIODB,0.5844,16,13,0.625,0.9174817291608336,0,13 reviews in one day (burst) | Rating deviation 0.92 stars from product mean
+A3ET65973XPUQD,0.5842,5,3,0.8,1.2958903613001975,1,80% extreme (1 or 5 star) ratings | Rating deviation 1.30 stars from product mean
+A25SV4A5C67BXI,0.5841,8,5,0.875,0.4040214606021781,1,5 reviews in one day (burst) | 87% extreme (1 or 5 star) ratings
+A1QPZCVXMCIJQJ,0.5839,20,10,0.95,0.5443237170180488,0,10 reviews in one day (burst) | 95% extreme (1 or 5 star) ratings
+A78PJ50UNRJV6,0.5839,12,1,0.75,2.5388027064497654,0,Rating deviation 2.54 stars from product mean
+AZVCNOOQK36DH,0.5837,5,1,0.6,0.8797230418174072,1,Multi-attribute behavioral anomaly pattern
+A20TUTGV2GKZW2,0.5836,6,4,1.0,0.6662157287157288,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2TXMYYGSZCSZ1,0.5834,8,1,0.75,0.6823073308270676,1,Multi-attribute behavioral anomaly pattern
+A2CNGARED6OWWU,0.5829,11,2,0.4545454545454545,0.8298875497733083,1,Multi-attribute behavioral anomaly pattern
+A339D0QQYH0ZRG,0.5826,28,6,0.3571428571428571,1.008039848011157,0,6 reviews in one day (burst) | Rating deviation 1.01 stars from product mean
+A19RE9LBQIX90B,0.5826,6,1,0.5,0.7170330622629867,1,Multi-attribute behavioral anomaly pattern
+A2DQE5VRXUBMA2,0.5826,15,12,0.9333333333333332,0.5225650325076828,0,12 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings
+A1UTKWU3XZWSD4,0.5824,7,5,1.0,0.4547078654906883,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2EJ7NFODZPQNW,0.5823,15,13,0.8666666666666667,0.8314023513207721,0,13 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A1050XS5BK823I,0.5821,12,4,0.6666666666666666,0.7291835833499891,1,4 reviews in one day (burst)
+A2QRL06SYKTNGG,0.5821,6,3,1.0,1.0413553501994646,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.04 stars from product mean
+A1188LXSJLEP1C,0.582,12,3,0.75,0.8062040840186814,1,Multi-attribute behavioral anomaly pattern
+A3B6R766FEI4AD,0.582,5,3,1.0,2.8012865497076023,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.80 stars from product mean
+A4Z9FWK2J34BP,0.5816,12,3,0.8333333333333334,0.7822215252495459,1,83% extreme (1 or 5 star) ratings
+A1CDHBM0K3NGLV,0.5815,6,4,1.0,0.4353420978289252,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1SHHQSPOWR00F,0.5812,45,3,0.5111111111111111,1.1707551667615883,0,Rating deviation 1.17 stars from product mean
+A32LX4XJ2LU740,0.5811,56,3,0.6785714285714286,0.9193903317763056,0,Rating deviation 0.92 stars from product mean
+A1W651PX7R8TAM,0.581,8,2,0.625,1.408246436647016,1,Rating deviation 1.41 stars from product mean
+A2TNR31JQ8JTSN,0.5809,5,4,0.8,1.1077769151138717,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 1.11 stars from product mean
+A2HV7COJAVH40,0.5806,11,2,0.4545454545454545,0.7948428377901263,1,Multi-attribute behavioral anomaly pattern
+A3U15MB3IULBXE,0.5803,6,3,0.5,1.176136871671461,1,Rating deviation 1.18 stars from product mean
+ANTN61S4L7WG9,0.58,53,3,0.5471698113207547,0.6227953070801107,0,Multi-attribute behavioral anomaly pattern
+A14JBDSWKPKTZA,0.58,69,2,0.7536231884057971,0.780062276611159,0,Multi-attribute behavioral anomaly pattern
+A2992O1JIXOHP7,0.5796,7,1,0.5714285714285714,0.9415854032816442,1,Rating deviation 0.94 stars from product mean
+A2J753YWOBIOSR,0.5793,5,5,0.0,1.548973939526935,0,5 reviews in one day (burst) | Rating deviation 1.55 stars from product mean
+A35C0YWI99ZPZ7,0.5788,5,3,0.8,1.1952040133779265,1,80% extreme (1 or 5 star) ratings | Rating deviation 1.20 stars from product mean
+A1GAR3RKNPGMWQ,0.5788,11,2,0.4545454545454545,0.8167628176283434,1,Multi-attribute behavioral anomaly pattern
+A3T8XGSS2HGMBW,0.5788,5,2,0.8,1.3837359238316176,1,80% extreme (1 or 5 star) ratings | Rating deviation 1.38 stars from product mean
+A377L4SG94MXKX,0.5787,12,1,0.4166666666666667,2.204073072301452,0,Rating deviation 2.20 stars from product mean
+A35A2L18E20MNP,0.5784,6,2,0.8333333333333334,1.3068613485280152,1,83% extreme (1 or 5 star) ratings | Rating deviation 1.31 stars from product mean
+A1MNN0ZMHYPJDU,0.5783,26,9,0.9230769230769232,0.670171734218282,0,9 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A159XCYYWP5ZAT,0.578,6,2,1.0,0.6974041563864111,1,100% extreme (1 or 5 star) ratings
+A2I7FNNMP8ALI4,0.5779,11,3,0.8181818181818182,0.4412119410996049,1,81% extreme (1 or 5 star) ratings
+A2E8M13C6BWPCQ,0.5778,10,2,0.9,0.8029678761084774,1,90% extreme (1 or 5 star) ratings
+AO6U7AVUYDT15,0.5776,14,12,1.0,0.5671314850532906,0,12 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2YMP0GYNVPLNT,0.5775,21,8,0.2857142857142857,0.9095649615958366,0,8 reviews in one day (burst) | Rating deviation 0.91 stars from product mean
+AL73NEC9YOLQB,0.5773,17,11,0.9411764705882352,0.4902744472779843,0,11 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings
+A18NSH50T6W3NG,0.5772,7,1,0.8571428571428571,0.7212976845158521,1,85% extreme (1 or 5 star) ratings
+A28OZBLQKKYGOR,0.577,12,2,0.5,0.7707772783503432,1,Multi-attribute behavioral anomaly pattern
+A352GEDAW1NGTZ,0.5765,9,4,0.6666666666666666,1.1632525133296694,1,4 reviews in one day (burst) | Rating deviation 1.16 stars from product mean
+A1O7IVRX2VPWR7,0.5765,7,1,1.0,2.451482256206416,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.45 stars from product mean
+AN8EPR2B5UMUU,0.5764,5,2,0.4,0.5978535353535352,1,Multi-attribute behavioral anomaly pattern
+A3MQAQT8C6D1I7,0.5762,39,4,0.9487179487179488,0.918994666406231,0,4 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings | Rating deviation 0.92 stars from product mean
+A2Q3MWU81FSM8V,0.576,8,3,0.5,1.2076476408617207,1,Rating deviation 1.21 stars from product mean
+AB78B157ZMYF3,0.576,12,2,0.5,0.7598387924474882,1,Multi-attribute behavioral anomaly pattern
+A1CI7RN1DUA8AF,0.576,8,2,1.0,2.843404193521528,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.84 stars from product mean
+A10WTI6XS1CX37,0.5758,5,3,0.8,0.8762142321323679,2,80% extreme (1 or 5 star) ratings | Participated in 2 product rating spikes
+A1OJ4DT82V6EJ9,0.5758,7,4,0.4285714285714285,0.7598891344388299,1,4 reviews in one day (burst)
+ASPU6ADKLXPRT,0.5754,18,1,0.6666666666666666,2.077322608628972,0,Rating deviation 2.08 stars from product mean
+A1P83JPZU024ZF,0.5754,7,6,0.8571428571428571,0.7317857452619617,1,6 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+AAW4JYVF4B845,0.5754,27,9,0.7407407407407407,0.9613705985048429,0,9 reviews in one day (burst) | Rating deviation 0.96 stars from product mean
+A1KJ15ZOW9W0SN,0.5753,7,1,0.5714285714285714,3.055301563838149,0,Rating deviation 3.06 stars from product mean
+A2JSU3DOC6BMXS,0.5753,8,3,0.75,1.1401105670543497,1,Rating deviation 1.14 stars from product mean
+A2QP6Y4A0FP3E8,0.5752,7,1,0.7142857142857143,0.6906436290449095,1,Multi-attribute behavioral anomaly pattern
+A2I3BWIY35O2SX,0.575,9,4,1.0,0.6501871073520342,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2J7FHZFKOKGZ6,0.5746,47,2,0.5531914893617021,1.286135853289357,0,Rating deviation 1.29 stars from product mean
+A23JUO5YUF714C,0.5746,8,2,0.5,1.3397019583695549,1,Rating deviation 1.34 stars from product mean
+A23RZIU0N8K2KR,0.5745,5,2,0.8,0.3062626262626262,1,80% extreme (1 or 5 star) ratings
+AWV4RZ9P2G1XA,0.5744,9,2,0.3333333333333333,1.0190410620227266,1,Rating deviation 1.02 stars from product mean
+A2IRXRHEIW5B2S,0.5743,11,3,0.5454545454545454,0.6364974372137333,1,Multi-attribute behavioral anomaly pattern
+AYO1146CBIV5C,0.5739,38,6,0.6052631578947368,0.6411119206734126,0,6 reviews in one day (burst)
+A3K3NAP5LJ6DDD,0.5738,13,3,0.6923076923076923,0.6658112643850967,1,Multi-attribute behavioral anomaly pattern
+A3BRY2NIGRM1QM,0.5737,8,8,0.0,1.1499219618147432,0,8 reviews in one day (burst) | Rating deviation 1.15 stars from product mean
+A3EUS4JC68Q476,0.5736,10,2,0.5,1.103308929632459,1,Rating deviation 1.10 stars from product mean
+A2FBFB9G5IIR9,0.5735,5,1,0.8,0.8760668058455116,1,80% extreme (1 or 5 star) ratings
+A2EDTVVR9IFNLW,0.5735,31,2,0.0967741935483871,0.6305256533552535,0,Multi-attribute behavioral anomaly pattern
+A2F86AC7ID6QQR,0.5732,7,2,0.7142857142857143,1.3543583262789944,1,Rating deviation 1.35 stars from product mean
+A2YRX8J4WM5BRX,0.5732,42,2,0.9761904761904762,0.6505286115006231,0,97% extreme (1 or 5 star) ratings
+A6WJQ1C01N36K,0.5729,5,2,1.0,0.5687307596201897,1,100% extreme (1 or 5 star) ratings
+A1PMO5IFFRHA7R,0.5729,5,5,0.6,0.9017670482827276,1,5 reviews in one day (burst) | Rating deviation 0.90 stars from product mean
+A2SUOPBCED1VJA,0.5728,8,4,1.0,0.6592032319052297,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AHO6D2H0W140S,0.5726,6,1,0.8333333333333334,2.8228174603174607,0,83% extreme (1 or 5 star) ratings | Rating deviation 2.82 stars from product mean
+A2MF6MFBOU2LPH,0.5723,6,2,0.3333333333333333,0.6553201453522216,1,Multi-attribute behavioral anomaly pattern
+A176I91EKBXT0S,0.5722,7,4,1.0,0.6068559736642428,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+ANQD84MKG8GAH,0.572,6,5,0.8333333333333334,0.9378762999452656,1,5 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings | Rating deviation 0.94 stars from product mean
+A12WV3TL2PXS5Q,0.5719,19,11,0.8947368421052632,0.5350879575572488,0,11 reviews in one day (burst) | 89% extreme (1 or 5 star) ratings
+A2D2VE1GPKT8YR,0.5715,8,5,0.5,0.5473168157378683,1,5 reviews in one day (burst)
+A2VQKZXU3215O7,0.5715,5,3,1.0,1.0473880822746522,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.05 stars from product mean
+A1YCAK5DUDJ2MW,0.5715,7,3,0.5714285714285714,1.0922961252383618,1,Rating deviation 1.09 stars from product mean
+A3CJZO1C5WMFUD,0.5713,7,2,0.4285714285714285,0.6741241330840329,1,Multi-attribute behavioral anomaly pattern
+A2V7QXV0H1ZVDE,0.5712,12,3,0.75,0.7265130115876385,1,Multi-attribute behavioral anomaly pattern
+A1NJ6MBO6TURL9,0.5711,20,10,0.55,0.4258063557867285,0,10 reviews in one day (burst)
+AJMITQE9R3LMH,0.5708,6,2,0.8333333333333334,1.1745136361364432,1,83% extreme (1 or 5 star) ratings | Rating deviation 1.17 stars from product mean
+A3O7LVFESZEMH7,0.5707,9,2,0.8888888888888888,0.4164789221675813,1,88% extreme (1 or 5 star) ratings
+A37NC7ASD6ZRKZ,0.5705,8,5,1.0,0.5742707956767005,1,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3KP2LB6GX8VCY,0.5703,5,1,0.6,0.7268689069763312,1,Multi-attribute behavioral anomaly pattern
+A6MKAZKUCUWYH,0.5702,9,4,0.4444444444444444,0.7490853013141295,1,4 reviews in one day (burst)
+A2LER41IZ69GUQ,0.5702,12,10,0.4166666666666667,1.2594572717975203,0,10 reviews in one day (burst) | Rating deviation 1.26 stars from product mean
+A3BTBIV6N9BZFR,0.5702,35,7,0.6857142857142857,0.6736359311629205,0,7 reviews in one day (burst)
+AK3D1F2TEULT0,0.5701,9,2,1.0,1.0327046273004177,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.03 stars from product mean
+A9RMM8GWJA8F3,0.5701,6,3,0.3333333333333333,0.5807895768025079,1,Multi-attribute behavioral anomaly pattern
+A3BNMHRW2R35LK,0.5699,45,5,0.6444444444444445,0.837314400229811,0,5 reviews in one day (burst)
+A341ND7Z67G63N,0.5695,5,4,0.8,0.3910644432706144,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A1SELTWFSOHSJV,0.5694,9,5,0.7777777777777778,0.5091957416913999,1,5 reviews in one day (burst)
+A2C6FXL8ITTMDQ,0.5693,8,3,0.75,0.3461975633602092,1,Multi-attribute behavioral anomaly pattern
+A28ZZGNB6YHB1C,0.5691,6,2,1.0,0.7639680748893222,1,100% extreme (1 or 5 star) ratings
+A1FQNC3QUMS234,0.5688,5,2,1.0,0.5746388868907304,1,100% extreme (1 or 5 star) ratings
+A2L6QS8SVHT9RG,0.5688,18,3,0.0,0.4268835995542418,0,Multi-attribute behavioral anomaly pattern
+A2IPY2M0U4RU5Z,0.5688,5,2,1.0,0.5765832631914167,1,100% extreme (1 or 5 star) ratings
+A27AF4DLLOBQDQ,0.5685,32,6,0.5,0.6071378842028452,0,6 reviews in one day (burst)
+A2I13KQT343NTL,0.5684,5,2,1.0,0.426411149825784,1,100% extreme (1 or 5 star) ratings
+A326F499MZ3E4Z,0.5684,8,6,0.75,0.4814345932621134,1,6 reviews in one day (burst)
+A9IJKA13VAXD6,0.5684,5,2,1.0,0.4303648732220159,1,100% extreme (1 or 5 star) ratings
+A2Y7Q9NAZ3D2W0,0.5681,10,2,0.7,1.0926761779679723,1,Rating deviation 1.09 stars from product mean
+A3QLMRL114BPEE,0.5681,6,4,0.6666666666666666,0.4023019670388091,1,4 reviews in one day (burst)
+A16UIR2SWHISLV,0.5679,6,1,0.6666666666666666,0.5242155870445343,1,Multi-attribute behavioral anomaly pattern
+AL18MV3HEGJJ3,0.5679,5,2,1.0,0.7886016427020097,1,100% extreme (1 or 5 star) ratings
+AAOPX9PTTOP3G,0.5678,15,13,0.8666666666666667,0.6215758791473077,0,13 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A2WXL2NC39ROBS,0.5677,5,3,1.0,0.4706217345872518,1,100% extreme (1 or 5 star) ratings
+A2EDS2YOGL1541,0.5677,5,2,1.0,0.4937984009240708,1,100% extreme (1 or 5 star) ratings
+A3EXKNVJ9W62NT,0.5677,5,3,1.0,0.4682781021943878,1,100% extreme (1 or 5 star) ratings
+A21SM39Z37B0KU,0.5674,5,5,0.8,0.5974038783659781,1,5 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A2HR9WDG4G93UK,0.5672,6,3,0.6666666666666666,0.375842242888172,1,Multi-attribute behavioral anomaly pattern
+A1O4EE9BSP83IG,0.5666,6,4,0.6666666666666666,1.058962755962529,1,4 reviews in one day (burst) | Rating deviation 1.06 stars from product mean
+A2XA6JM1SKBSHV,0.5664,19,11,0.8947368421052632,0.6297608913665779,0,11 reviews in one day (burst) | 89% extreme (1 or 5 star) ratings
+AMPG1OHMOPGJM,0.5664,6,1,0.6666666666666666,0.9485931343084218,1,Rating deviation 0.95 stars from product mean
+A1ITFRPPKFD4KP,0.5664,5,3,1.0,0.5865835677583874,1,100% extreme (1 or 5 star) ratings
+A2C8OOP3HT8IGW,0.5663,7,2,1.0,0.5999019464245026,1,100% extreme (1 or 5 star) ratings
+A2YH7F9YH12NIS,0.5661,7,4,0.8571428571428571,0.4027519079111616,1,4 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+A26KXNN6H1IL0I,0.5661,64,3,0.6875,0.7272829001705456,0,Multi-attribute behavioral anomaly pattern
+ACEGMV8RTBL8H,0.566,5,5,0.8,0.7920668058455116,1,5 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A2MIP3AQVSF2SS,0.5657,35,6,0.9142857142857144,0.6563965867004,0,6 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings
+A1WWX9NI06JKFR,0.5657,9,3,0.4444444444444444,1.032615788559893,1,Rating deviation 1.03 stars from product mean
+A1C47ROOK7BSVL,0.5656,24,4,0.7916666666666666,1.7325370102483106,0,4 reviews in one day (burst) | Rating deviation 1.73 stars from product mean
+A2TZTKQWJXVK3E,0.5656,8,6,0.75,0.6791256140137214,1,6 reviews in one day (burst)
+A1KWPIORLG2QV,0.5651,33,4,1.0,0.7139901366356234,0,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+AIFLY2HF8NS8U,0.5651,60,3,0.6333333333333333,0.6996675327243976,0,Multi-attribute behavioral anomaly pattern
+AODKB0THUTN7W,0.5649,8,1,0.375,2.4226554595500405,0,Rating deviation 2.42 stars from product mean
+A18Z7ICRLVHBBP,0.5649,5,2,1.0,0.4718846915340142,1,100% extreme (1 or 5 star) ratings
+A2IN2AD238G08N,0.5648,6,3,0.5,0.4520741878906447,1,Multi-attribute behavioral anomaly pattern
+A33LE6I8L0YU52,0.5647,7,3,0.8571428571428571,1.039068090555547,1,85% extreme (1 or 5 star) ratings | Rating deviation 1.04 stars from product mean
+A3NX1H9ZAP4I5W,0.5645,5,3,0.8,0.3732079414838036,1,80% extreme (1 or 5 star) ratings
+AQYIBLOA7IQSN,0.5645,5,5,0.8,0.8383333333333335,1,5 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A180IQJFK1MNQV,0.5643,7,2,1.0,0.6083699867744959,1,100% extreme (1 or 5 star) ratings
+A2MMXC9Y2Q6UV1,0.5643,8,3,0.75,0.377420192214817,1,Multi-attribute behavioral anomaly pattern
+AA1FBD24BCUK,0.5641,9,4,1.0,0.7454494778858902,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A25AFBV75QOEJD,0.5641,17,6,0.0,0.516004473489265,0,6 reviews in one day (burst)
+ACQYIC13JXAOI,0.5637,61,2,0.5901639344262295,0.6532899865342257,0,Multi-attribute behavioral anomaly pattern
+A2UBYEOEW6HKOR,0.5633,5,1,0.8,0.8177208472041301,1,80% extreme (1 or 5 star) ratings
+A155WK4J425WSQ,0.5633,7,1,0.8571428571428571,2.6721706789304505,0,85% extreme (1 or 5 star) ratings | Rating deviation 2.67 stars from product mean
+A129JA5N3CROTY,0.5632,6,3,1.0,0.5112574499787144,1,100% extreme (1 or 5 star) ratings
+A2WUOZN2O3HEFK,0.5631,26,6,0.9615384615384616,0.9902726387027746,0,6 reviews in one day (burst) | 96% extreme (1 or 5 star) ratings | Rating deviation 0.99 stars from product mean
+AJL3U764D7NI3,0.5631,34,5,0.9411764705882352,0.7293184399402439,0,5 reviews in one day (burst) | 94% extreme (1 or 5 star) ratings
+A2097WPTXSIAP0,0.5629,5,2,1.0,0.8361893317056218,1,100% extreme (1 or 5 star) ratings
+A2ERFGMJH41TRE,0.5629,7,2,1.0,0.4025420694593626,1,100% extreme (1 or 5 star) ratings
+A6XDZ1MJ0B1A2,0.5628,37,2,0.7027027027027027,1.5824477154897751,0,Rating deviation 1.58 stars from product mean
+A3NQSN3D19ECZ7,0.5628,11,1,0.1818181818181818,2.054272999727545,0,Rating deviation 2.05 stars from product mean
+A3QRW0UJPKIAX7,0.5627,41,4,0.4146341463414634,0.8605089687074843,0,4 reviews in one day (burst)
+A1J0OS2XYUKEIE,0.5624,18,2,0.9444444444444444,1.858722810111699,0,94% extreme (1 or 5 star) ratings | Rating deviation 1.86 stars from product mean
+A13T2PI51VAYEQ,0.5624,10,4,0.8,0.9008143627291788,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 0.90 stars from product mean
+A3GI2Q50RKE7J8,0.5623,9,2,1.0,0.9962940891639794,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.00 stars from product mean
+A3I73QMJPPMZ3Q,0.5623,26,4,0.3846153846153846,1.264272774632193,0,4 reviews in one day (burst) | Rating deviation 1.26 stars from product mean
+A28FAA1PEFDN4Z,0.5622,6,3,1.0,0.5429830847067509,1,100% extreme (1 or 5 star) ratings
+A1KDIH1SJOKQ35,0.5622,6,3,1.0,0.5077503240066648,1,100% extreme (1 or 5 star) ratings
+A33HRCX7I3P7GK,0.562,11,3,0.8181818181818182,0.5652745103340007,1,81% extreme (1 or 5 star) ratings
+A1DH6XX1KLDXKO,0.562,5,2,1.0,0.499606872354577,1,100% extreme (1 or 5 star) ratings
+A3G3LITI9EWHPM,0.5617,9,4,0.7777777777777778,0.4666022937320135,1,4 reviews in one day (burst)
+A2G9ZHVA6IOGBY,0.5617,6,2,1.0,0.930688993567282,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.93 stars from product mean
+A19QM6GJ0AFT0D,0.5615,6,3,0.3333333333333333,0.7977185340539377,1,Multi-attribute behavioral anomaly pattern
+A1ORW6B32NZ3Y5,0.5614,11,11,0.2727272727272727,0.7861146837710057,0,11 reviews in one day (burst)
+A2LZF7JK3KS77J,0.5614,9,2,0.8888888888888888,0.5374771329046015,1,88% extreme (1 or 5 star) ratings
+ATPE249G00DZ7,0.5614,6,2,1.0,0.5435989210499016,1,100% extreme (1 or 5 star) ratings
+A32FL5THCMR03I,0.5614,9,2,0.8888888888888888,0.5278947892481812,1,88% extreme (1 or 5 star) ratings
+A1VR9II0HC7ZQ6,0.5613,17,9,0.8823529411764706,1.3613195303938617,0,9 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings | Rating deviation 1.36 stars from product mean
+A1I970110U4B0V,0.5612,24,9,0.5833333333333334,1.1550188811743682,0,9 reviews in one day (burst) | Rating deviation 1.16 stars from product mean
+AEFRL0YRN389H,0.5612,6,2,1.0,0.4576587007999039,1,100% extreme (1 or 5 star) ratings
+AG16PRCYMVTOA,0.5612,10,4,0.6,0.5187930944913003,1,4 reviews in one day (burst)
+A5U5JJ8HXPLMP,0.561,10,4,0.7,0.4309854732097548,1,4 reviews in one day (burst)
+A2W9VGCIJQG0NI,0.5607,5,4,0.8,0.4452773028611055,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+ABSIVDSNICG8N,0.5607,9,3,0.7777777777777778,0.4677657640783753,1,Multi-attribute behavioral anomaly pattern
+A1FWMTEUAT4HDG,0.5604,5,3,1.0,0.5245317725752509,1,100% extreme (1 or 5 star) ratings
+A12BUKR6ZSOMXT,0.5604,8,2,0.875,1.033895121777125,1,87% extreme (1 or 5 star) ratings | Rating deviation 1.03 stars from product mean
+A3VIAJ48BGUQ2R,0.5604,6,2,1.0,0.5184472793883462,1,100% extreme (1 or 5 star) ratings
+A3GUTB5HY7N5SS,0.5603,8,4,1.0,0.5562508289562964,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1IKN188FI6ZVE,0.5603,12,12,0.75,1.1273484868619137,0,12 reviews in one day (burst) | Rating deviation 1.13 stars from product mean
+A18H6KCOM1IPDZ,0.5602,5,2,1.0,0.753640906062625,1,100% extreme (1 or 5 star) ratings
+A3I04CBXGNEX6,0.5602,6,1,0.0,1.7726542478112115,0,Rating deviation 1.77 stars from product mean
+AH9TPX4TW5JIO,0.5602,5,2,1.0,0.7305040189695362,1,100% extreme (1 or 5 star) ratings
+AB00KQZ88BSAZ,0.56,12,11,0.9166666666666666,0.3856680965426025,0,11 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings
+A10L7CIY9S38BM,0.5599,6,2,0.3333333333333333,0.968968062265164,1,Rating deviation 0.97 stars from product mean
+A14D9Y2FDJEMX4,0.5599,9,2,0.7777777777777778,0.5416121345301289,1,Multi-attribute behavioral anomaly pattern
+AU0LBH9Q2NKQG,0.5596,7,3,0.7142857142857143,1.1308951538454646,1,Rating deviation 1.13 stars from product mean
+A10AAULK3SQEK1,0.5595,17,14,0.7647058823529411,0.7434613687612264,0,14 reviews in one day (burst)
+A29UD0YQU95J2Q,0.5595,5,5,0.4,2.298095238095238,0,5 reviews in one day (burst) | Rating deviation 2.30 stars from product mean
+A16ZTIWRM5LPR,0.5595,10,5,0.7,0.847803383830781,1,5 reviews in one day (burst)
+A6BJWBPA4P2S4,0.5593,9,3,0.8888888888888888,0.5027842609208311,1,88% extreme (1 or 5 star) ratings
+A3T2F40NCAB6TO,0.5591,6,3,1.0,0.5464517774025047,1,100% extreme (1 or 5 star) ratings
+A19X4BF861LQST,0.559,41,2,0.4390243902439024,1.1547864017404803,0,Rating deviation 1.15 stars from product mean
+A3CSZH55OOTYHM,0.5588,11,2,0.7272727272727273,0.6005833001799257,1,Multi-attribute behavioral anomaly pattern
+AY545C8MV07G1,0.5587,5,4,0.8,0.456226239695885,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A2KR1481ARVYNP,0.5587,17,11,0.8823529411764706,0.8984054578864991,0,11 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A2QT6I1I0S25GY,0.5586,14,12,0.8571428571428571,0.9388642318548492,0,12 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings | Rating deviation 0.94 stars from product mean
+A2NW4O9BJLWDDY,0.5586,12,3,0.5833333333333334,0.7580454805159885,1,Multi-attribute behavioral anomaly pattern
+A2GB8OLVW6Q1QI,0.5584,9,2,0.8888888888888888,0.6479885057471265,1,88% extreme (1 or 5 star) ratings
+A2LLSFQO8O8XNW,0.5582,37,5,0.6216216216216216,0.5514850588619866,0,5 reviews in one day (burst)
+A3FA3C83G0TV2V,0.5578,5,1,0.4,2.822993197278912,0,Rating deviation 2.82 stars from product mean
+A2L8FUCG0CYD4H,0.5578,29,7,0.6551724137931034,1.0510283065688353,0,7 reviews in one day (burst) | Rating deviation 1.05 stars from product mean
+A2ZY14X18VVJAI,0.5576,15,12,0.8666666666666667,0.841614257665336,0,12 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+ARHJIHRRPTFX9,0.5575,7,4,0.8571428571428571,0.4309420562702518,1,4 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+A33N3Z9MYSIPRO,0.5574,5,1,0.0,0.2497529921059331,0,Multi-attribute behavioral anomaly pattern
+A3TA1UJWRJF9NC,0.5573,34,4,0.9117647058823528,1.0901756937219402,0,4 reviews in one day (burst) | 91% extreme (1 or 5 star) ratings | Rating deviation 1.09 stars from product mean
+A3G91TWL7TQ7OE,0.5573,8,4,1.0,0.8487882860866731,1,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A3H4TIVTTA5IBB,0.5571,31,2,0.2258064516129032,0.5017136709651502,0,Multi-attribute behavioral anomaly pattern
+A3DEU11RZ375IG,0.557,8,8,0.0,0.6182927448938174,0,8 reviews in one day (burst)
+A3610IT0GYY2HU,0.557,6,3,1.0,0.9370642160187868,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.94 stars from product mean
+A2EAL64PNHVB5E,0.5569,6,2,0.3333333333333333,0.7180863652480438,1,Multi-attribute behavioral anomaly pattern
+A337U81HJ55SRB,0.5568,11,2,0.6363636363636364,0.6930702400976191,1,Multi-attribute behavioral anomaly pattern
+A3L39PERV5GAAO,0.5568,5,2,1.0,0.9639654463183872,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.96 stars from product mean
+A1D3Y2KFYMTSS3,0.5568,5,2,1.0,0.94499185999186,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.94 stars from product mean
+A12GX216LFBI8T,0.5567,5,4,0.8,0.4807924019878214,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+AZCOE68N2HOCZ,0.5567,25,9,0.88,0.6252592808077374,0,9 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+AC49ZI7CUTTH5,0.5565,13,12,0.9230769230769232,0.6129301330663165,0,12 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A3BIMAUO4JKCRJ,0.5561,9,3,0.7777777777777778,0.4986740779061289,1,Multi-attribute behavioral anomaly pattern
+A3QFUNJ0L81OOD,0.5561,7,2,0.7142857142857143,1.107398317737697,1,Rating deviation 1.11 stars from product mean
+AXZXPKSCETSO2,0.5556,14,11,1.0,0.513624353362978,0,11 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A39DLJWTHCYTY6,0.5552,8,3,1.0,0.6638319664880692,1,100% extreme (1 or 5 star) ratings
+A2KW2CYEFOG5RV,0.555,10,7,0.0,0.4749524827750059,0,7 reviews in one day (burst)
+AGRK0C0FGMQKK,0.555,10,3,0.8,0.5220520405777471,1,80% extreme (1 or 5 star) ratings
+A1K4G5YJDJQI6Q,0.5549,21,1,0.3809523809523809,1.5150937903765889,0,Rating deviation 1.52 stars from product mean
+A31TT5G7U1TK7C,0.5547,6,2,1.0,2.8728747098312315,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.87 stars from product mean
+A10ZBR6O8S8OCY,0.5545,58,2,0.7586206896551724,0.6959925727484846,0,Multi-attribute behavioral anomaly pattern
+A2882QQKJ0IUBU,0.5543,10,9,0.4,1.4107775411756194,0,9 reviews in one day (burst) | Rating deviation 1.41 stars from product mean
+A2T9FTF1YHS9IX,0.5542,5,3,1.0,1.0186959021105362,1,100% extreme (1 or 5 star) ratings | Rating deviation 1.02 stars from product mean
+A3466OP6D0UL3B,0.5542,16,14,0.6875,0.4943579072784947,0,14 reviews in one day (burst)
+A35C08P4HELIMI,0.5534,15,11,0.8666666666666667,1.0044879341717143,0,11 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings | Rating deviation 1.00 stars from product mean
+A37U5PRGBURC2V,0.5533,9,3,0.6666666666666666,1.0938022438932449,1,Rating deviation 1.09 stars from product mean
+A16II8I82LUNW,0.5532,6,4,0.5,0.5514551905272695,1,4 reviews in one day (burst)
+A3QLBQXF441AW1,0.553,6,1,0.6666666666666666,2.781082846300238,0,Rating deviation 2.78 stars from product mean
+A1CDR00JQ1IAV,0.5527,15,10,1.0,1.0802093869146612,0,10 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.08 stars from product mean
+AAZTMLVDQUHZK,0.5527,7,2,1.0,0.756431221154748,1,100% extreme (1 or 5 star) ratings
+A39JX161Y31771,0.5527,5,3,1.0,0.773039437080674,1,100% extreme (1 or 5 star) ratings
+A3FUKG6UDKUQ0T,0.5525,8,3,1.0,0.6801832820756137,1,100% extreme (1 or 5 star) ratings
+A1W2PKCD3OV2OD,0.5525,6,4,0.8333333333333334,1.021924352653519,1,4 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings | Rating deviation 1.02 stars from product mean
+A1YO4N327QQHDH,0.5524,5,4,0.8,0.6585267462422634,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A2AEZQ3DGBBLPR,0.5524,21,1,0.5714285714285714,1.811985185417241,0,Rating deviation 1.81 stars from product mean
+A12GKGMTXDHNW5,0.552,8,3,1.0,0.6247562404485245,1,100% extreme (1 or 5 star) ratings
+APCGKWFKN5BAQ,0.5518,10,2,0.8,0.9015323864613752,1,80% extreme (1 or 5 star) ratings | Rating deviation 0.90 stars from product mean
+A1B0YO04O40C3M,0.5516,29,6,0.896551724137931,0.4229575291735171,0,6 reviews in one day (burst) | 89% extreme (1 or 5 star) ratings
+A6F2N4ZICYHTU,0.5512,7,2,1.0,0.5065508055190023,1,100% extreme (1 or 5 star) ratings
+A2M50NPRYXJW1A,0.5511,5,3,1.0,0.8231313131313129,1,100% extreme (1 or 5 star) ratings
+AZ5K8OBTYNLFZ,0.5508,8,4,0.5,0.5441511069185061,1,4 reviews in one day (burst)
+A14BOQH9MGNDAD,0.5507,9,4,0.5555555555555556,0.5448983477645979,1,4 reviews in one day (burst)
+A1WM55F3BMOMYD,0.5505,6,4,0.8333333333333334,0.9453123538336928,1,4 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings | Rating deviation 0.95 stars from product mean
+AJZR37LXKSI7P,0.5502,20,11,0.8,0.7670965624274985,0,11 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A2P6J6KGQL4Y8S,0.5501,5,4,0.0,1.5791227096899365,0,4 reviews in one day (burst) | Rating deviation 1.58 stars from product mean
+A34J5MULVRT7WM,0.5498,7,3,0.8571428571428571,0.4839412061994609,1,85% extreme (1 or 5 star) ratings
+A14PGOARRULTX8,0.5498,7,3,0.8571428571428571,0.4901983658477166,1,85% extreme (1 or 5 star) ratings
+A3625B4RPH3ZPR,0.5497,6,4,0.6666666666666666,2.636096066330765,0,4 reviews in one day (burst) | Rating deviation 2.64 stars from product mean
+A36VP7N8G3GEW2,0.5497,9,3,0.7777777777777778,0.9599548164879468,1,Rating deviation 0.96 stars from product mean
+A2BG2IXO32MWXP,0.5496,8,2,0.875,1.010126123876124,1,87% extreme (1 or 5 star) ratings | Rating deviation 1.01 stars from product mean
+A27J1BSKWZK4Q3,0.5495,5,4,0.8,0.9415139779231848,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 0.94 stars from product mean
+AZ3SQD0QXH7RN,0.5492,5,2,0.8,0.3863049700754619,1,80% extreme (1 or 5 star) ratings
+A2YFUJL8RXAZM5,0.5491,5,4,0.0,1.569212877017494,0,4 reviews in one day (burst) | Rating deviation 1.57 stars from product mean
+A1OQ7NESY75BRI,0.5491,7,2,0.8571428571428571,0.4221212963785081,1,85% extreme (1 or 5 star) ratings
+AGOMW95M7MIV,0.5488,7,3,1.0,0.8846147607271728,1,100% extreme (1 or 5 star) ratings
+ABV6I0MER7GXX,0.5487,6,2,0.8333333333333334,1.0040684624017957,1,83% extreme (1 or 5 star) ratings | Rating deviation 1.00 stars from product mean
+AEQB8TBZA5EL4,0.5487,6,4,0.8333333333333334,0.4579599572225317,1,4 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings
+A1LAGS8H4A2DR7,0.5487,39,2,0.2564102564102564,0.7547434605037971,0,Multi-attribute behavioral anomaly pattern
+A2RS66Y79Q8X0W,0.5484,31,5,0.935483870967742,0.6700941607419613,0,5 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings
+A3T41DSAR6AN4R,0.5483,14,11,0.5,0.4773091610415898,0,11 reviews in one day (burst)
+A3AUT07D3WL69G,0.5483,5,4,0.8,0.6179528201267332,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A1HACP80YXJRPP,0.5483,7,1,0.0,1.7383558271344115,0,Rating deviation 1.74 stars from product mean
+A343XI0NEV2YJ,0.5482,7,5,0.7142857142857143,0.931112015147496,1,5 reviews in one day (burst) | Rating deviation 0.93 stars from product mean
+A1PUV4XTMT14L3,0.5482,23,10,0.5652173913043478,0.6467326466442594,0,10 reviews in one day (burst)
+A13H8Z0F3FJ5AO,0.5479,10,3,0.6,0.6069793184310927,1,Multi-attribute behavioral anomaly pattern
+A2C1KT41VPR4JP,0.5475,10,2,0.8,0.4974070285249784,1,80% extreme (1 or 5 star) ratings
+AN92S28RV1FQ4,0.5474,16,2,0.4375,2.043396728174246,0,Rating deviation 2.04 stars from product mean
+A1U8JBUAUYOMOG,0.5473,5,3,1.0,0.9153102561467502,1,100% extreme (1 or 5 star) ratings | Rating deviation 0.92 stars from product mean
+ATVDEUJL7KV93,0.547,5,2,0.8,0.3919681552666288,1,80% extreme (1 or 5 star) ratings
+A2FWXZ1JATXRH7,0.547,31,4,0.2903225806451613,0.5785712920835573,0,4 reviews in one day (burst)
+A32KIUW9DLG5S7,0.5469,11,3,0.6363636363636364,0.7250076410886432,1,Multi-attribute behavioral anomaly pattern
+AOTBQZF21MUGY,0.5468,5,2,0.4,0.9771180432470754,1,Rating deviation 0.98 stars from product mean
+A8ZIS2SS22TQ4,0.5465,6,3,0.5,0.5736276182976777,1,Multi-attribute behavioral anomaly pattern
+A2T1S6MU2H0FKK,0.5464,6,4,0.5,0.973819790266584,1,4 reviews in one day (burst) | Rating deviation 0.97 stars from product mean
+A3VBXQKRM7A4JR,0.5461,40,2,0.35,0.8597885065100035,0,Multi-attribute behavioral anomaly pattern
+A38GJUQN2TNIDD,0.546,6,3,0.5,0.6049936537557123,1,Multi-attribute behavioral anomaly pattern
+A1R76R4E6A8S3B,0.5459,42,3,0.4285714285714285,0.6892865402688603,0,Multi-attribute behavioral anomaly pattern
+AQBLWW13U66XD,0.5458,16,11,0.9375,0.6432217634323134,0,11 reviews in one day (burst) | 93% extreme (1 or 5 star) ratings
+A107K10JTO8NSH,0.5456,23,7,0.3478260869565217,0.5224103920998294,0,7 reviews in one day (burst)
+A3LXDQABSYT0A4,0.5455,6,1,1.0,2.3413748844950484,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.34 stars from product mean
+A3MAT1NQF6UC4O,0.5455,25,9,0.56,0.8340543931583771,0,9 reviews in one day (burst)
+A2R2EOXV5UXHGH,0.5452,18,2,0.6666666666666666,2.052753875192205,0,Rating deviation 2.05 stars from product mean
+A394CFIQH570SM,0.545,27,8,0.8888888888888888,0.4460414033492307,0,8 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+A2OTJK6D3GMGV9,0.5447,10,3,0.7,0.5336053395084654,1,Multi-attribute behavioral anomaly pattern
+A342E0DTJDH67M,0.5446,10,2,0.8,0.4863215846843357,1,80% extreme (1 or 5 star) ratings
+AVBJ5TGRE0WAV,0.5446,8,2,0.875,0.5036308998424759,1,87% extreme (1 or 5 star) ratings
+A1NK488S0NMSSY,0.5446,5,3,0.6,0.4199865579614855,1,Multi-attribute behavioral anomaly pattern
+A2YWHND2TY7706,0.5445,5,4,1.0,2.302407031778228,0,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 2.30 stars from product mean
+A83UBOTWYVQ2A,0.5442,5,3,0.4,0.8657200566195054,1,Multi-attribute behavioral anomaly pattern
+A2TI4Y4OJEFDJF,0.5441,7,4,0.8571428571428571,0.545861995979316,1,4 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+A2BGDI7RRK6YJ5,0.544,15,5,0.2,1.4753854120661845,0,5 reviews in one day (burst) | Rating deviation 1.48 stars from product mean
+A1P51R2I1JDI5J,0.544,6,2,0.6666666666666666,1.146558135976662,1,Rating deviation 1.15 stars from product mean
+A3E494XO44QZJ3,0.544,8,4,0.875,0.8060445892449122,1,4 reviews in one day (burst) | 87% extreme (1 or 5 star) ratings
+A2WDJ3YB0JG42J,0.5437,5,4,0.8,0.551769820971867,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A165WJDRP7ZJYS,0.5437,7,4,0.8571428571428571,0.6716665205102004,1,4 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+AQOY334UL0B95,0.5434,22,9,0.5,0.9792088431785928,0,9 reviews in one day (burst) | Rating deviation 0.98 stars from product mean
+AL3TILX5ZWU73,0.5433,6,4,0.6666666666666666,0.4906949657257539,1,4 reviews in one day (burst)
+A1PC9U058GVWEZ,0.5433,6,4,0.6666666666666666,0.4864278752436647,1,4 reviews in one day (burst)
+A16Y3GMJREN2BJ,0.5432,6,1,0.0,0.1598719019771651,0,Multi-attribute behavioral anomaly pattern
+A1LU9Q47QFJ9X4,0.5428,5,5,0.4,2.2000821018062395,0,5 reviews in one day (burst) | Rating deviation 2.20 stars from product mean
+A1Z82WO6ZE9IEY,0.5428,6,2,0.6666666666666666,0.4032291873424878,1,Multi-attribute behavioral anomaly pattern
+A172E07O62AMFQ,0.5427,5,1,0.6,2.7297798688492385,0,Rating deviation 2.73 stars from product mean
+A2IEKS5Z84WVSR,0.5427,5,1,0.6,2.7268995098039217,0,Rating deviation 2.73 stars from product mean
+A2OFOUA4N2WW1L,0.5423,30,8,0.7,0.7890411839396567,0,8 reviews in one day (burst)
+A3S9MTAMV79BX8,0.5422,5,3,0.6,2.834940476190476,0,Rating deviation 2.83 stars from product mean
+ADC846Q1W4YHD,0.5416,7,2,0.8571428571428571,0.5176628036444119,1,85% extreme (1 or 5 star) ratings
+A2D8T8HTOHCR2I,0.541,13,6,0.1538461538461538,0.277635510948789,0,6 reviews in one day (burst)
+A1RKGC5CRTFPI1,0.5408,5,4,0.8,0.5530701754385966,1,4 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings
+A32KPVM41CIAB2,0.5406,6,3,0.8333333333333334,0.4720333415455366,1,83% extreme (1 or 5 star) ratings
+A18U49406IPPIJ,0.5401,38,2,0.9473684210526316,0.6102490716092122,0,94% extreme (1 or 5 star) ratings
+A3MPX1S83LFLM0,0.5399,5,4,0.6,0.9162529644268774,1,4 reviews in one day (burst) | Rating deviation 0.92 stars from product mean
+A3T6UL4EBK9SY7,0.5399,8,3,1.0,0.8915190148165649,1,100% extreme (1 or 5 star) ratings
+A1NYKC09CETMCV,0.5398,7,3,0.8571428571428571,0.5922583834067598,1,85% extreme (1 or 5 star) ratings
+A1BVE2ZIBKJ7YI,0.5398,40,3,0.475,1.1528977475986166,0,Rating deviation 1.15 stars from product mean
+A3QCLEQ7F77V6C,0.5397,17,1,0.8235294117647058,1.937601153853526,0,82% extreme (1 or 5 star) ratings | Rating deviation 1.94 stars from product mean
+AMMEQHH65S74L,0.5397,10,2,0.8,0.7272740544982529,1,80% extreme (1 or 5 star) ratings
+A7NREKKZ0E4JU,0.5395,8,3,1.0,0.7523750266871383,1,100% extreme (1 or 5 star) ratings
+A1C4RUT5BWM3R9,0.5393,9,2,0.7777777777777778,0.8022806035994644,1,Multi-attribute behavioral anomaly pattern
+ANYKKMEHB0ABA,0.5392,6,4,0.6666666666666666,0.5397823617703136,1,4 reviews in one day (burst)
+AIA874OBKAO0N,0.5391,12,1,0.5,2.1725039277764844,0,Rating deviation 2.17 stars from product mean
+A33VDZQ6KCDYAZ,0.5386,6,3,0.8333333333333334,0.960509071984482,1,83% extreme (1 or 5 star) ratings | Rating deviation 0.96 stars from product mean
+ACVF82ZXCWP31,0.5385,5,2,0.8,0.6633658064358011,1,80% extreme (1 or 5 star) ratings
+A3I4KR7P3MGN3P,0.5384,5,2,0.8,0.4552622057765443,1,80% extreme (1 or 5 star) ratings
+A1TBH2PJAQHNGP,0.5383,5,3,0.8,0.450782645235844,1,80% extreme (1 or 5 star) ratings
+A27IGO4RPYZDZL,0.5383,6,2,0.8333333333333334,0.613330592106468,1,83% extreme (1 or 5 star) ratings
+A54GN0U250O8M,0.5374,6,4,0.8333333333333334,0.9036041167620116,1,4 reviews in one day (burst) | 83% extreme (1 or 5 star) ratings | Rating deviation 0.90 stars from product mean
+A2O59M3ZBNSXEG,0.5374,6,2,0.8333333333333334,0.4837992495067967,1,83% extreme (1 or 5 star) ratings
+A2KKIP978LAZ7B,0.5374,6,2,0.8333333333333334,0.4897107295744669,1,83% extreme (1 or 5 star) ratings
+AZZS13C32YSPH,0.5373,6,2,0.8333333333333334,0.5666856505735657,1,83% extreme (1 or 5 star) ratings
+A13EQE9EY2ET93,0.5371,36,2,0.3055555555555556,0.767859151761392,0,Multi-attribute behavioral anomaly pattern
+A341R01E7PFE06,0.537,14,2,0.3571428571428571,1.9643789488540104,0,Rating deviation 1.96 stars from product mean
+AZNQDDC78PRFL,0.537,8,4,0.625,0.793164795638964,1,4 reviews in one day (burst)
+A2CBOTHF2PZW9M,0.5369,7,3,0.8571428571428571,0.6267094711452332,1,85% extreme (1 or 5 star) ratings
+A1A3BVKMTVRJKZ,0.5369,14,11,0.9285714285714286,0.5679677301313127,0,11 reviews in one day (burst) | 92% extreme (1 or 5 star) ratings
+A2P71YT477629P,0.5365,14,12,0.8571428571428571,0.4590032928428053,0,12 reviews in one day (burst) | 85% extreme (1 or 5 star) ratings
+A3K225TUAJG7UW,0.5362,5,1,0.8,2.887632696390658,0,80% extreme (1 or 5 star) ratings | Rating deviation 2.89 stars from product mean
+A2Q1GTF6UKJ3WQ,0.5362,5,1,0.8,2.8128154908003458,0,80% extreme (1 or 5 star) ratings | Rating deviation 2.81 stars from product mean
+A3MX5WX93TVPRL,0.5362,5,5,0.0,0.3508263630964962,0,5 reviews in one day (burst)
+A150ELARPGPY4T,0.5361,7,5,0.7142857142857143,0.8194433324741769,1,5 reviews in one day (burst)
+A2YZVO7HB60BO3,0.5361,30,7,0.7,0.5453247852706787,0,7 reviews in one day (burst)
+AYYFMTM2HHK61,0.536,6,4,0.6666666666666666,0.5615459667982455,1,4 reviews in one day (burst)
+A300JNN2QFGDQW,0.5358,5,5,1.0,2.104389318276485,0,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 2.10 stars from product mean
+A12NVLOY8TZXPX,0.5356,6,1,0.8333333333333334,2.540727083666613,0,83% extreme (1 or 5 star) ratings | Rating deviation 2.54 stars from product mean
+AUY3DSH6LCR48,0.5354,6,2,0.8333333333333334,0.5075320341459936,1,83% extreme (1 or 5 star) ratings
+AEF12MHCWA243,0.5351,8,2,0.875,0.8006884057971015,1,87% extreme (1 or 5 star) ratings
+A3NAMRA9FFI82P,0.535,5,2,0.8,0.9066808152446452,1,80% extreme (1 or 5 star) ratings | Rating deviation 0.91 stars from product mean
+A3VQ77Z5SI8ES7,0.5346,17,9,0.2941176470588235,0.8469933673588694,0,9 reviews in one day (burst)
+AM3XNQU9TZBD8,0.5346,50,2,0.82,0.8536828055076167,0,82% extreme (1 or 5 star) ratings
+A3T569ZAJAGF2H,0.5343,11,7,0.0,0.6538898127439378,0,7 reviews in one day (burst)
+A3775OP5VTX5ON,0.5342,40,3,0.625,1.26750014509722,0,Rating deviation 1.27 stars from product mean
+A21TXJ4W2ZXZ5M,0.5341,5,3,0.8,0.9781692918862872,1,80% extreme (1 or 5 star) ratings | Rating deviation 0.98 stars from product mean
+A8P6GIIQ6YQV8,0.5339,26,6,0.4230769230769231,0.5235178923193382,0,6 reviews in one day (burst)
+A370O66TDIC35T,0.5337,9,4,0.6666666666666666,0.9932621345378536,1,4 reviews in one day (burst) | Rating deviation 0.99 stars from product mean
+ACA6DWWWQDAHY,0.5333,7,2,0.5714285714285714,1.013502071698793,1,Rating deviation 1.01 stars from product mean
+A1P6BHV3N0KW10,0.5333,5,2,0.8,0.594298953822072,1,80% extreme (1 or 5 star) ratings
+A3IEAYDS24L2IK,0.5332,10,3,0.7,0.939172112603137,1,Rating deviation 0.94 stars from product mean
+A2RTGJ0ZR93ECB,0.5331,14,10,1.0,0.4490669018486773,0,10 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1G8KGDXJHNK37,0.5329,6,2,0.8333333333333334,0.7944120134630754,1,83% extreme (1 or 5 star) ratings
+A1G0684OLZ4RU8,0.5328,5,5,1.0,2.0672924297924298,0,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 2.07 stars from product mean
+A1N3CH42SZWEP,0.5325,19,3,0.8947368421052632,1.7145261248659285,0,89% extreme (1 or 5 star) ratings | Rating deviation 1.71 stars from product mean
+A2CBA6D0IIEDNK,0.5325,8,2,0.75,0.5162021466654494,1,Multi-attribute behavioral anomaly pattern
+APPP4P483RZ8W,0.532,9,3,0.6666666666666666,1.023095138306432,1,Rating deviation 1.02 stars from product mean
+A3C2NA2JYBO9YN,0.5318,5,1,0.2,2.231277056277056,0,Rating deviation 2.23 stars from product mean
+A1V7M066XFKFEY,0.5318,5,2,0.8,0.8911680911680913,1,80% extreme (1 or 5 star) ratings
+A21GW4L8FO307V,0.5315,29,7,0.7586206896551724,0.7984515827158403,0,7 reviews in one day (burst)
+A3P4WOECOANW1M,0.5312,6,2,0.8333333333333334,0.8450863678804854,1,83% extreme (1 or 5 star) ratings
+A1O7YO1806XYAU,0.5309,6,2,0.8333333333333334,0.8125810355737872,1,83% extreme (1 or 5 star) ratings
+AIQZK8PU1F5RA,0.5305,5,3,0.8,0.6092816804997004,1,80% extreme (1 or 5 star) ratings
+A1IAAFQT3D8CMO,0.5304,10,3,0.7,0.6712137330770135,1,Multi-attribute behavioral anomaly pattern
+A3FJE1JPA27CFR,0.5304,5,3,0.8,0.6727011155301351,1,80% extreme (1 or 5 star) ratings
+A3N7GBJ5NC8RUC,0.5302,14,10,1.0,0.8926101179589558,0,10 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2Q5W11GOA08IJ,0.53,8,2,0.625,1.0327629626150008,1,Rating deviation 1.03 stars from product mean
+A3T0DQ3IMKX25Q,0.53,13,11,1.0,0.7793012117289558,0,11 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2XPJ5FLVMFJAY,0.5296,35,5,0.8,0.9670423606255718,0,5 reviews in one day (burst) | 80% extreme (1 or 5 star) ratings | Rating deviation 0.97 stars from product mean
+A35X2JJI49OBZP,0.5296,50,2,0.72,0.5767462485604735,0,Multi-attribute behavioral anomaly pattern
+A2AB4H9JQJGJEE,0.5291,5,3,0.8,0.6211433172302738,1,80% extreme (1 or 5 star) ratings
+A15Z6DU12HCENF,0.5291,7,1,1.0,2.249834451293484,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.25 stars from product mean
+AGB7UQZMVHNUJ,0.529,5,1,0.0,0.3404597701149425,0,Multi-attribute behavioral anomaly pattern
+A3H28BN5IS3VP8,0.529,5,1,0.0,0.330952380952381,0,Multi-attribute behavioral anomaly pattern
+A28GS21LBHH1TA,0.5288,5,2,0.8,0.8662260283999416,1,80% extreme (1 or 5 star) ratings
+A3CQXDCHHMBC1,0.5286,7,2,0.5714285714285714,0.5971775214877972,1,Multi-attribute behavioral anomaly pattern
+A2F3NG6RUGZ5K2,0.5284,5,2,0.6,3.0436085875247425,0,Rating deviation 3.04 stars from product mean
+A3DIS5O83SQJWW,0.528,29,2,0.2413793103448276,0.5204372434970643,0,Multi-attribute behavioral anomaly pattern
+A17FW3I6CJW3S0,0.5279,9,3,0.6666666666666666,0.6354158841058773,1,Multi-attribute behavioral anomaly pattern
+A30L1TZXGV9DBH,0.5278,10,1,0.1,1.7675213675213677,0,Rating deviation 1.77 stars from product mean
+A3SQCTNYQFVBWM,0.5278,24,5,0.1666666666666666,0.6787134039195726,0,5 reviews in one day (burst)
+A3HCMJOGRRSAF2,0.5273,34,3,0.3823529411764705,0.8648798569867512,0,Multi-attribute behavioral anomaly pattern
+A322YPEIK3K7CY,0.5265,6,2,0.8333333333333334,0.756142893465548,1,83% extreme (1 or 5 star) ratings
+ACEW2AUO3AEA4,0.5265,5,3,0.6,0.5037359659310878,1,Multi-attribute behavioral anomaly pattern
+A369BU62O5EGDT,0.5264,26,4,0.6153846153846154,1.427863321989399,0,4 reviews in one day (burst) | Rating deviation 1.43 stars from product mean
+A2CPTH3C7XTHPM,0.526,28,8,0.7857142857142857,0.5392194992728098,0,8 reviews in one day (burst)
+A1YNXD0PW9ZYO8,0.5258,6,2,1.0,2.503571428571429,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.50 stars from product mean
+A28FDO05T15ZZQ,0.5258,6,2,1.0,2.505843133474712,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.51 stars from product mean
+A32HSNCNPRUMTR,0.5257,39,3,0.5384615384615384,1.1573720939252703,0,Rating deviation 1.16 stars from product mean
+A1D8PJZGNX8LFK,0.5257,27,7,0.5925925925925926,1.0725935284994923,0,7 reviews in one day (burst) | Rating deviation 1.07 stars from product mean
+A3AWVPK4VJTQAD,0.5256,8,3,0.625,0.5159525643777658,1,Multi-attribute behavioral anomaly pattern
+A1PWWY0J1CQF8V,0.5256,9,3,0.6666666666666666,0.5627632600634003,1,Multi-attribute behavioral anomaly pattern
+A1CUNCH9J0NC70,0.5253,20,9,0.95,0.7481816774069573,0,9 reviews in one day (burst) | 95% extreme (1 or 5 star) ratings
+A2C50KBBXJ9PS5,0.5251,5,2,0.6,2.8507258064516128,0,Rating deviation 2.85 stars from product mean
+A22PZ4G1YT2Q6F,0.5251,5,2,0.6,2.8261904761904764,0,Rating deviation 2.83 stars from product mean
+AE3BHWNJCRO8R,0.5246,5,2,0.6,0.6010908681961314,1,Multi-attribute behavioral anomaly pattern
+A21XUDC9QBLLSI,0.5243,33,6,0.8181818181818182,0.7277436651103121,0,6 reviews in one day (burst) | 81% extreme (1 or 5 star) ratings
+A9DL1VVBWMRC5,0.5242,6,3,0.5,0.7812121776186195,1,Multi-attribute behavioral anomaly pattern
+AVXCANUBPM1VW,0.5242,8,2,0.75,0.761656241897848,1,Multi-attribute behavioral anomaly pattern
+A1KCV6VC5F1AK1,0.524,5,2,0.8,0.7882626214365345,1,80% extreme (1 or 5 star) ratings
+A1VACR72HRFDD6,0.5238,7,4,0.7142857142857143,0.5938952481894344,1,4 reviews in one day (burst)
+A1PYSYYHHXATL7,0.5238,6,3,0.5,0.7697338154370201,1,Multi-attribute behavioral anomaly pattern
+A1IPO4KOY2QKXT,0.5238,8,3,0.75,0.5456159420289854,1,Multi-attribute behavioral anomaly pattern
+A304LZ9EO9V1BV,0.5235,5,2,0.8,0.8298940189348052,1,80% extreme (1 or 5 star) ratings
+A2DFSJZC9TSHPV,0.5233,10,3,0.7,0.7177887880386562,1,Multi-attribute behavioral anomaly pattern
+A3TSQVDK4TZ1VD,0.5225,8,2,0.625,3.0486444358445133,0,Rating deviation 3.05 stars from product mean
+AZ71F750K09FR,0.5224,8,3,0.625,0.6389524171737659,1,Multi-attribute behavioral anomaly pattern
+A1K6YT3IW75ID6,0.5222,8,3,1.0,2.2943754162504164,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.29 stars from product mean
+A3EFTC52RU17O1,0.5221,7,3,0.5714285714285714,0.7458808311100332,1,Multi-attribute behavioral anomaly pattern
+A43Q42VMUAWG4,0.522,7,3,0.7142857142857143,0.959491239466609,1,Rating deviation 0.96 stars from product mean
+A28RSMADFCBJDT,0.522,46,3,0.5217391304347826,0.7965935866350742,0,Multi-attribute behavioral anomaly pattern
+A2AZIQJGBLU7WN,0.5216,8,3,0.75,0.6946013668696736,1,Multi-attribute behavioral anomaly pattern
+A21FZW91CX12TA,0.521,5,2,0.6,0.4602077870091251,1,Multi-attribute behavioral anomaly pattern
+A14RFF9JUIM34U,0.521,25,8,0.52,0.8870667215355448,0,8 reviews in one day (burst)
+A3LDPF5FMB782Z,0.5208,45,2,0.4666666666666667,0.6277913836078808,0,Multi-attribute behavioral anomaly pattern
+A2KFKEME4A9ATW,0.5207,20,5,0.5,1.5325671798487248,0,5 reviews in one day (burst) | Rating deviation 1.53 stars from product mean
+A2S11NSTM645SN,0.5204,5,3,0.6,0.6417413939430391,1,Multi-attribute behavioral anomaly pattern
+AF9GHFH7O50ET,0.5203,5,1,0.6,2.5906818181818183,0,Rating deviation 2.59 stars from product mean
+A146CA37V0450V,0.5201,34,5,0.5294117647058824,0.8820734603101567,0,5 reviews in one day (burst)
+A15MM78R3WY34F,0.5197,5,2,0.6,0.6117275984203886,1,Multi-attribute behavioral anomaly pattern
+A8WXLST0944GZ,0.5196,30,2,0.3,1.0468238341779268,0,Rating deviation 1.05 stars from product mean
+A1VIHRU1K0SC54,0.5194,5,3,0.8,0.8127842362241342,1,80% extreme (1 or 5 star) ratings
+ANEDXRFDZDL18,0.5191,29,2,0.3448275862068966,1.2551948631184833,0,Rating deviation 1.26 stars from product mean
+AB62IZA9087G4,0.5189,5,1,0.0,1.6032457580733444,0,Rating deviation 1.60 stars from product mean
+AI5MIQYR3JZC5,0.5189,5,2,0.6,0.5342364532019703,1,Multi-attribute behavioral anomaly pattern
+A35NBCUEJSF9VT,0.5186,8,3,0.75,0.6727290252074734,1,Multi-attribute behavioral anomaly pattern
+A184ZFZZBWEXMS,0.5184,7,2,0.7142857142857143,0.6721978299843911,1,Multi-attribute behavioral anomaly pattern
+A1B80MVU7ZODF9,0.5184,31,3,0.4516129032258064,1.21278544122904,0,Rating deviation 1.21 stars from product mean
+A1CGTOUKHJ9EBU,0.5181,6,1,1.0,2.263596667796706,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.26 stars from product mean
+A5IDSJ659KFU6,0.5181,5,1,0.2,2.1636421166827384,0,Rating deviation 2.16 stars from product mean
+A2NS2BWQKIS13C,0.518,16,9,1.0,0.4263780862677716,0,9 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A1O9ERVTKGVW69,0.518,5,1,1.0,2.2905987244823,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.29 stars from product mean
+A1UQ30FFJFTFWI,0.5177,5,2,0.6,0.5822410699284722,1,Multi-attribute behavioral anomaly pattern
+AYXYB6KVF0C6K,0.5176,5,2,0.6,0.681591144324434,1,Multi-attribute behavioral anomaly pattern
+A2PREU4LOFQRB1,0.5175,55,2,0.6545454545454545,0.7432620459879032,0,Multi-attribute behavioral anomaly pattern
+A336TE6K4X3EDR,0.5174,8,3,0.625,0.5962807617219381,1,Multi-attribute behavioral anomaly pattern
+A37S1BWQA09EZL,0.5174,5,3,0.8,0.8261969788146708,1,80% extreme (1 or 5 star) ratings
+A1ECSUGIKBGZMK,0.5173,13,12,0.7692307692307693,0.4401220195657912,0,12 reviews in one day (burst)
+A450WKBT9ZIM,0.5173,23,9,0.8695652173913043,0.8377880428054523,0,9 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A1MDWX1EXPCOYE,0.5173,5,3,0.6,0.5879848171152519,1,Multi-attribute behavioral anomaly pattern
+A3P3XP70BMBX06,0.5172,33,5,0.4848484848484848,0.8833047498965207,0,5 reviews in one day (burst)
+AS0HYJB5KLECM,0.5171,5,2,0.8,0.7405035805035807,1,80% extreme (1 or 5 star) ratings
+A1KPPFZ4Z59HM5,0.5169,5,3,0.6,0.9199610983981692,1,Rating deviation 0.92 stars from product mean
+A31HE83MU98GBV,0.5168,51,3,0.7058823529411765,0.7271534189065602,0,Multi-attribute behavioral anomaly pattern
+A26AGFN88XV910,0.5168,7,1,0.2857142857142857,2.253665154586425,0,Rating deviation 2.25 stars from product mean
+A32HC53TLUW5E0,0.516,12,11,0.75,0.3452847458503933,0,11 reviews in one day (burst)
+AF502FLL5WFZ3,0.5155,7,4,1.0,2.247377501725328,0,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 2.25 stars from product mean
+A1LDWZBO4SLPF,0.5154,9,3,0.6666666666666666,0.9044167356219224,1,Rating deviation 0.90 stars from product mean
+AQGQ2G07LY6FI,0.5147,9,2,0.3333333333333333,2.3973226146827296,0,Rating deviation 2.40 stars from product mean
+A5GPH59NDWJRB,0.5146,39,2,0.4102564102564102,0.6604273197847466,0,Multi-attribute behavioral anomaly pattern
+AFU75NX4Y9WA8,0.5146,14,3,0.3571428571428571,1.7623192556543508,0,Rating deviation 1.76 stars from product mean
+A3UYBRB74RJFXB,0.514,31,3,0.5806451612903226,1.3930334929670791,0,Rating deviation 1.39 stars from product mean
+AHQZ83VQ726ZH,0.5135,5,1,0.6,2.554681605975724,0,Rating deviation 2.55 stars from product mean
+A1Y8VDXU4UHBS2,0.5135,5,1,0.4,2.470131097560976,0,Rating deviation 2.47 stars from product mean
+AQ55H30MZSV0Q,0.5135,31,2,0.4193548387096774,1.2143245476919566,0,Rating deviation 1.21 stars from product mean
+A3MZIAFQFJ1NP1,0.5133,6,1,1.0,2.212443845462713,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.21 stars from product mean
+A2NFAGUYIQF616,0.5132,5,3,0.6,0.6760302677997115,1,Multi-attribute behavioral anomaly pattern
+A3SWCGTOYLM67A,0.5132,5,5,0.4,2.04696856766422,0,5 reviews in one day (burst) | Rating deviation 2.05 stars from product mean
+A1VLQO2GUIYRJ,0.5131,5,2,0.4,2.6694563574363053,0,Rating deviation 2.67 stars from product mean
+A3190RJ4JEAO88,0.513,8,1,0.75,2.378985262766727,0,Rating deviation 2.38 stars from product mean
+A3ENX1Y48DJQVK,0.513,26,5,0.4230769230769231,0.936664198408727,0,5 reviews in one day (burst) | Rating deviation 0.94 stars from product mean
+A1U8NNKIJSIP79,0.5125,5,3,0.4,2.4233333333333333,0,Rating deviation 2.42 stars from product mean
+A1YR583U3GDB03,0.5124,7,2,0.7142857142857143,0.8769157344610596,1,Multi-attribute behavioral anomaly pattern
+A17HVJ3WXQXJ8J,0.5122,8,2,0.625,0.9421510734383128,1,Rating deviation 0.94 stars from product mean
+AZ1RAP7SF84I3,0.5121,5,1,1.0,2.2615442002867887,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.26 stars from product mean
+A15CL28ALB7MTZ,0.5121,44,3,0.5454545454545454,0.6732515304584438,0,Multi-attribute behavioral anomaly pattern
+A356DA8NRGJMQ9,0.5115,5,1,0.6,2.528607503607504,0,Rating deviation 2.53 stars from product mean
+AA801ZW32BAFZ,0.5114,5,5,0.0,0.4319115348067314,0,5 reviews in one day (burst)
+AHJ3Y5H9NAPAO,0.5114,28,7,0.75,0.8491602891156462,0,7 reviews in one day (burst)
+A1T9K80RA1XHDU,0.5112,5,1,1.0,2.228613199665831,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.23 stars from product mean
+A142B32XNL4ATO,0.5112,5,1,1.0,2.2305916305916305,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.23 stars from product mean
+AYLNKK6ZM69D3,0.5111,15,10,1.0,0.7123324525491709,0,10 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A224YIBQCDVRQK,0.5111,5,3,0.8,0.7275926773455378,1,80% extreme (1 or 5 star) ratings
+AZZYW4YOE1B6E,0.511,27,5,0.4444444444444444,0.5322825755279551,0,5 reviews in one day (burst)
+A2X695AM08AIN1,0.5108,42,3,0.4523809523809524,0.7533120363593161,0,Multi-attribute behavioral anomaly pattern
+AC3K8C43DQDHX,0.5108,5,1,0.8,2.638679940695245,0,80% extreme (1 or 5 star) ratings | Rating deviation 2.64 stars from product mean
+A1YIIP1O16B0SB,0.5105,7,2,0.7142857142857143,0.8656262186358532,1,Multi-attribute behavioral anomaly pattern
+A2J7LX31PMGQMV,0.5105,7,2,0.7142857142857143,0.860885202531601,1,Multi-attribute behavioral anomaly pattern
+AT897K1S617TL,0.5099,5,3,0.6,0.9084715578718576,1,Rating deviation 0.91 stars from product mean
+A1IUJLN94QVB76,0.5097,17,10,0.7647058823529411,1.196540526377134,0,10 reviews in one day (burst) | Rating deviation 1.20 stars from product mean
+AAGGG7ONSYD5V,0.5096,5,1,0.4,2.4075405214940098,0,Rating deviation 2.41 stars from product mean
+A17USV4BLET4JX,0.5094,5,4,0.6,2.38972804972805,0,4 reviews in one day (burst) | Rating deviation 2.39 stars from product mean
+A7OABP6TW418J,0.509,11,11,0.9090909090909092,0.4628947474933497,0,11 reviews in one day (burst) | 90% extreme (1 or 5 star) ratings
+A2AGUIRQZHZK7K,0.509,15,11,0.8666666666666667,0.7881870670349725,0,11 reviews in one day (burst) | 86% extreme (1 or 5 star) ratings
+A3EV2R77V65VGM,0.5089,27,4,1.0,0.505674918978702,0,4 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings
+A2194PH8DKGB7I,0.5088,5,2,0.6,0.7978653750048051,1,Multi-attribute behavioral anomaly pattern
+AI9NFEZEWVO7Z,0.5088,5,2,0.6,0.7979044719866636,1,Multi-attribute behavioral anomaly pattern
+ASRA2UZ3JV87B,0.5088,25,3,0.12,0.8696706404019097,0,Multi-attribute behavioral anomaly pattern
+A3D2VIUT2HWP0Z,0.5085,49,2,0.6530612244897959,0.8441915494010952,0,Multi-attribute behavioral anomaly pattern
+A1C2GFOPBDFM8L,0.5084,6,1,0.5,2.4591269841269843,0,Rating deviation 2.46 stars from product mean
+A1HASDNCKPXGFK,0.5084,5,1,0.0,1.5337732689845367,0,Rating deviation 1.53 stars from product mean
+A4HT7FH6PGPV6,0.5084,16,5,0.625,1.8243591552828144,0,5 reviews in one day (burst) | Rating deviation 1.82 stars from product mean
+A7WO11FUH6VYN,0.5083,5,1,1.0,2.223861353016716,0,100% extreme (1 or 5 star) ratings | Rating deviation 2.22 stars from product mean
+AJ9AE2BVND0GS,0.5081,32,1,0.5,0.5446185574940405,0,Multi-attribute behavioral anomaly pattern
+A2GLLYZ7AUEYFG,0.508,6,3,0.6666666666666666,0.9087528439015852,1,Rating deviation 0.91 stars from product mean
+A39WI8U2N35SWW,0.5074,6,2,0.8333333333333334,3.017780921563816,0,83% extreme (1 or 5 star) ratings | Rating deviation 3.02 stars from product mean
+AU1H008SC4LDL,0.5069,5,1,0.0,1.498342689379275,0,Rating deviation 1.50 stars from product mean
+A2M5VZV3M9BDY7,0.5069,8,2,0.625,0.8085856349940531,1,Multi-attribute behavioral anomaly pattern
+A1LDB0HGS322GA,0.5066,17,11,0.6470588235294118,0.6834530379040878,0,11 reviews in one day (burst)
+AS8C336DDLSO4,0.5063,37,2,0.4054054054054054,0.6182291211524172,0,Multi-attribute behavioral anomaly pattern
+A1KIT7BV1O3RFS,0.5061,6,3,0.6666666666666666,0.707632685797587,1,Multi-attribute behavioral anomaly pattern
+A2OG33EMMWA39Z,0.506,6,3,0.6666666666666666,0.8642917405519905,1,Multi-attribute behavioral anomaly pattern
+A2MIF552GFBNPU,0.5058,11,3,0.1818181818181818,1.910571469335129,0,Rating deviation 1.91 stars from product mean
+A15G70V9OBTOVO,0.5057,32,2,0.3125,0.8208830668843871,0,Multi-attribute behavioral anomaly pattern
+A19JA9J3BFBKNO,0.5053,5,4,0.4,2.144969003536509,0,4 reviews in one day (burst) | Rating deviation 2.14 stars from product mean
+A37ZBHBHMUJHK8,0.5049,9,1,1.0,1.7923215435163964,0,100% extreme (1 or 5 star) ratings | Rating deviation 1.79 stars from product mean
+A25EHXGAXBJBUE,0.5048,10,1,0.9,1.8194518495203424,0,90% extreme (1 or 5 star) ratings | Rating deviation 1.82 stars from product mean
+A1LH6RF4UN9VI6,0.5048,34,2,0.3823529411764705,0.7988837565627173,0,Multi-attribute behavioral anomaly pattern
+AENU742EV17J7,0.5044,29,3,1.0,0.5900782959530443,0,100% extreme (1 or 5 star) ratings
+A2AAB4Y69I91Y0,0.5044,17,8,0.3529411764705882,1.1229571159969705,0,8 reviews in one day (burst) | Rating deviation 1.12 stars from product mean
+A38BMAZQER781H,0.5032,5,1,0.0,1.4890185385261785,0,Rating deviation 1.49 stars from product mean
+A1VK02YYECXMIB,0.5029,5,2,0.8,3.2805213616399485,0,80% extreme (1 or 5 star) ratings | Rating deviation 3.28 stars from product mean
+A3SGBRA0BQTB7J,0.5026,13,1,0.3846153846153846,1.751782273677759,0,Rating deviation 1.75 stars from product mean
+A96TVYCTIM44J,0.5022,25,8,0.88,0.6211744966643163,0,8 reviews in one day (burst) | 88% extreme (1 or 5 star) ratings
+AWIZ4J524S9XU,0.502,5,2,0.6,0.7285918707313008,1,Multi-attribute behavioral anomaly pattern
+A1O3FDAZQK8FJC,0.5019,21,2,0.7619047619047619,1.7062411106083597,0,Rating deviation 1.71 stars from product mean
+A1KBJ4D71P53JB,0.5019,6,2,0.6666666666666666,0.755357142857143,1,Multi-attribute behavioral anomaly pattern
+A55PCTJ6NINET,0.5018,31,2,0.3548387096774194,0.5884356281291471,0,Multi-attribute behavioral anomaly pattern
+A3V8P0O224OBDB,0.5013,30,3,0.9333333333333332,1.0803845347082643,0,93% extreme (1 or 5 star) ratings | Rating deviation 1.08 stars from product mean
+A22M5EMIPD2NRB,0.5012,17,11,0.7058823529411765,0.6219664924174062,0,11 reviews in one day (burst)
+A2V5TQFZUPAR16,0.5012,11,11,0.5454545454545454,0.4398464342594981,0,11 reviews in one day (burst)
+AQUBH41VHFX8T,0.5009,5,5,1.0,1.8974473684210529,0,5 reviews in one day (burst) | 100% extreme (1 or 5 star) ratings | Rating deviation 1.90 stars from product mean
+A1P662LNCNUIP6,0.5007,5,1,0.8,2.62672187715666,0,80% extreme (1 or 5 star) ratings | Rating deviation 2.63 stars from product mean
+A2BDERU31EP4RP,0.5007,5,1,0.8,2.6182648401826483,0,80% extreme (1 or 5 star) ratings | Rating deviation 2.62 stars from product mean
+A2B8GXSCB1R05T,0.5005,29,1,0.4137931034482758,0.6629781831944132,0,Multi-attribute behavioral anomaly pattern
