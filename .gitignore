@@ -13,10 +13,14 @@ venv/
 # local editor folders
 .vscode/
 .idea/
+.agents/
 
 # Data & Model Artifacts
 *.joblib
 *.pkl
+*.bin
+*.safetensors
+distilbert_model/pytorch_model.bin
 reviews_with_features.csv
 Dataset/
-
+Fine Tuned Distilbert.ipynb

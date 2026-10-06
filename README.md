@@ -1,67 +1,70 @@
-# Guarding the Recommendation Pipeline
+# Forensic Stylometry: Recognizing Human and LLM-Generated Texts in Short Samples
 
-This repository contains the recommender-system work for the minor project on fake-review filtering and robust recommendation.
+> **Primary Theoretical & Empirical Foundation:**  
+> Przystalski, K., Argasinski, J. K., Grabska-Gradzinska, I., & Ochab, J. K. (2026).  
+> **"Stylometry recognizes human and LLM-generated texts in short samples"**  
+> *Expert Systems with Applications*, 296, Article 129001.  
+> DOI: [10.1016/j.eswa.2025.129001](https://doi.org/10.1016/j.eswa.2025.129001)
 
-## Project structure
+---
 
-- `recommender/` — core recommendation pipeline: data loading, baselines, FunkSVD, ALS, weighted models, metrics, experiments, and tests
-- `data/` — local datasets used for development and testing
-- `attack_data/` — attacked and split data outputs used for attack evaluation
-- `docs/` — project notes, task guide, and report materials
-- `notebooks/` — notebook-based exploratory and example work
-- `fake_review_detector/` — detector-related work from the broader team project
+## 1. Project Overview & Architectural Pivot
 
-## Recommended workflow
+This project focuses on **Computational Forensic Stylometry** to reliably distinguish between human-authored writing and machine-generated texts (MGT) synthesized by modern Large Language Models (including **GPT-3.5**, **GPT-4**, **LLaMa 2**, **LLaMa 3**, **Orca**, and **Falcon**).
 
-1. Create or activate a Python environment.
-2. Install dependencies from the recommender package requirements:
-   ```bash
-   pip install -r recommender/requirements.txt
-   ```
-3. Run the test suite:
-   ```bash
-   python -m pytest recommender/tests -q
-   ```
-4. Use the recommender package as:
-   ```python
-   from recommender import train
+### Why the Shift Away from Recommender Systems (SVD / ALS)?
+Earlier work attempted to solve fraudulent review injection via Collaborative Filtering matrix factorizations (**FunkSVD** and **ALS**). However, rating matrices ($R \approx P Q^\top$) only observe scalar ratings and fail completely when adversaries generate syntactically flawless, high-volume synthetic text reviews with LLMs. 
 
-   model = train(ratings_df, weights=None, params=None)
-   print(model.predict(user_id, item_id))
-   print(model.recommend(user_id, n=10, exclude_seen=True))
-   ```
+By pivoting to **computational stylometry**, the system analyzes the **subconscious authorial and syntactic DNA** of the text itself. As proven by Przystalski et al. (2026), stylometric features achieve **98% to 100% accuracy** even on short text samples (10 sentences / ~150–250 tokens) and remain robust against adversarial paraphrasers like DIPPER (11B) and Parrot (T5).
 
-## Notes
+---
 
-- Missing ratings are treated as unknown values, not zero-filled entries.
-- The project uses sparse matrices for training and evaluation.
-- The recommender package is organized around reproducible experiments and clean evaluation outputs.
+## 2. Core Stylometric Dimensions
 
-## Main components
+Our pipeline implements both **StyloMetrix** (human-designed linguistic rules) and **CLARIN-PL** (statistical n-gram frequencies):
 
-- `recommender/data.py` — loading, sparse matrix construction, and ID mapping
-- `recommender/baselines.py` — bias and popularity baselines
-- `recommender/funksvd.py` — FunkSVD implementation
-- `recommender/als.py` — ALS implementation
-- `recommender/metrics.py` — error and ranking metrics
-- `recommender/experiments.py` — clean and attack evaluation experiments
-- `recommender/tests/` — project tests
+1. **Fact-Packing Density (`PROPN` & `NUM`):** Human encyclopedic and experiential writing exhibits heavy concentrations of proper names, dates, and numbers. LLMs substitute concrete facts with abstract generalizations.
+2. **Grammatical Standardization:** LLM decoders exhibit tightly constrained POS n-gram frequencies with minimal authorial variance, whereas human texts show rich stylistic dispersion and long-tail outliers.
+3. **Overused LLM Lexical Markers:** Quantitative tracking of chronic LLM tropes: `significant`, `notable`, `despite`, `furthermore`, `testament`, `crucial`, `legacy`, and `various`.
+4. **Syntactic Fronting (`FOS_FRONTING`):** Frequency of placing adverbial/prepositional clauses prior to the sentence subject.
+5. **Lemma Type-Token Ratio (`L_TYPE_TOKEN_RATIO_LEMMAS`):** Measures vocabulary diversity and lexical richness over lemmatized root forms.
+6. **Generation & Formatting Artifacts (`SPACE` Token):** Detection of double spaces and paragraph-initial whitespace tokens characteristic of specific LLMs (e.g., LLaMa 2).
 
-## Fake Review Pipeline (NLP Benchmarking) Preliminary Results
+---
 
-Stratified 5-Fold Cross-Validation performance (seed 42) across 40,432 clean text reviews (`classical_model_metrics.csv`):
+## 3. Repository Structure
 
-| Model | Accuracy (mean ± std) | Precision (mean ± std) | Recall (mean ± std) | F1-Score (mean ± std) | PR-AUC (mean ± std) |
-|---|---|---|---|---|---|
-| **Linear SVM (Calibrated)** | **94.31% ± 0.19%** | 0.9300 ± 0.0029 | **0.9583 ± 0.0019** | **0.9440 ± 0.0019** | **0.9877 ± 0.0003** |
-| **Logistic Regression** | 93.50% ± 0.21% | **0.9449 ± 0.0033** | 0.9238 ± 0.0022 | 0.9343 ± 0.0021 | 0.9842 ± 0.0007 |
-| **Multinomial Naive Bayes** | 91.14% ± 0.29% | 0.9042 ± 0.0042 | 0.9204 ± 0.0045 | 0.9122 ± 0.0029 | 0.9761 ± 0.0008 |
-| **Random Forest** | 86.95% ± 0.42% | 0.9103 ± 0.0046 | 0.8198 ± 0.0058 | 0.8627 ± 0.0046 | 0.9528 ± 0.0023 |
-| **Decision Tree** | 77.46% ± 0.33% | 0.7989 ± 0.0085 | 0.7339 ± 0.0084 | 0.7650 ± 0.0030 | 0.7369 ± 0.0025 |
+- [`app.py`](file:///c:/Users/hp/OneDrive/Desktop/College/7th%20Sem/Minor%20Project/MINOR-CLA-PROJECT-main/app.py) — Interactive Streamlit Forensic Stylometry & LLM Detection Suite.
+- [`docs/stylometry_ai_vs_human_detection.md`](file:///c:/Users/hp/OneDrive/Desktop/College/7th%20Sem/Minor%20Project/MINOR-CLA-PROJECT-main/docs/stylometry_ai_vs_human_detection.md) — Comprehensive technical report, mathematical formulations, and complete empirical benchmark comparisons.
+- [`Fake_Review_Detector_Pro_Colab.ipynb`](file:///c:/Users/hp/OneDrive/Desktop/College/7th%20Sem/Minor%20Project/MINOR-CLA-PROJECT-main/Fake_Review_Detector_Pro_Colab.ipynb) — DistilBERT transformer training notebook for Google Colab (free T4 GPU).
+- `distilbert_model/` — Local weights for offline deep transformer sequence classification.
+- `svm_classifier.joblib`, `dt_classifier.joblib`, `nb_classifier.joblib` — Pre-trained classical and tree-based baseline classifiers.
 
-* **Dual-Feature Extraction (Word + Char n-grams)**: Linear SVM using combined word (1-2) + character (2-5) TF-IDF features reached **96.36% ± 0.08%** CV accuracy and **96.41%** holdout test accuracy (`svm_metrics.joblib`).
+---
 
-## Next step
+## 4. Running the Streamlit Application
 
-After the repository is cleaned and validated, it can be pushed to GitHub with a remote repository URL.
+```bash
+# Activate the virtual environment
+.\venv\Scripts\activate
 
+# Run the Streamlit web app
+streamlit run app.py --server.port 8501
+```
+
+Access the live interface at `http://localhost:8501`.
+
+---
+
+## 5. Summary Benchmark Performance (Przystalski et al., 2026)
+
+| Generator Pair / Benchmark | StyloMetrix (196 features) | Frequency N-Grams (3000 features) |
+| :--- | :---: | :---: |
+| **Wiki (Human) vs. GPT-4** | 94.0% | **98.0%** |
+| **Wiki (Human) vs. GPT-3.5** | 97.0% | **99.0%** |
+| **Wiki (Human) vs. LLaMa 2** | 99.0% | **100.0%** |
+| **Wiki (Human) vs. LLaMa 3** | 95.0% | **99.0%** |
+| **Wiki (Human) vs. Orca** | 99.0% | **100.0%** |
+| **Wiki (Human) vs. Falcon** | 98.0% | **100.0%** |
+| **Multiclass Attribution (MCC)** | 0.72 | **0.87** |
+| **Paraphrased with DIPPER (11B)** | — | **>99.8% Recall** |
