@@ -8,14 +8,11 @@
 
 ---
 
-## 1. Project Overview & Architectural Pivot
+## 1. Project Overview
 
 This project focuses on **Computational Forensic Stylometry** to reliably distinguish between human-authored writing and machine-generated texts (MGT) synthesized by modern Large Language Models (including **GPT-3.5**, **GPT-4**, **LLaMa 2**, **LLaMa 3**, **Orca**, and **Falcon**).
 
-### Why the Shift Away from Recommender Systems (SVD / ALS)?
-Earlier work attempted to solve fraudulent review injection via Collaborative Filtering matrix factorizations (**FunkSVD** and **ALS**). However, rating matrices ($R \approx P Q^\top$) only observe scalar ratings and fail completely when adversaries generate syntactically flawless, high-volume synthetic text reviews with LLMs. 
-
-By pivoting to **computational stylometry**, the system analyzes the **subconscious authorial and syntactic DNA** of the text itself. As proven by Przystalski et al. (2026), stylometric features achieve **98% to 100% accuracy** even on short text samples (10 sentences / ~150–250 tokens) and remain robust against adversarial paraphrasers like DIPPER (11B) and Parrot (T5).
+By analyzing the **subconscious authorial and syntactic DNA** of the text, the system extracts over 195 stylistic and n-gram markers. As proven by **Przystalski et al. (2026)**, stylometric features achieve **98% to 100% accuracy** even on short text samples (10 sentences / ~150–250 tokens) and remain robust against adversarial paraphrasers like DIPPER (11B) and Parrot (T5).
 
 ---
 
