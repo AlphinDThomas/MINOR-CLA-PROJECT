@@ -1,0 +1,34 @@
+# ============================================================
+# requirements.txt — Forensic Stylometry: Human vs. LLM Text
+# Detection Suite (Minor CLA Project)
+# ============================================================
+
+# --- Core Data Science ---
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# --- Machine Learning ---
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# --- NLP & Text Processing ---
+nltk>=3.8.1
+
+# --- Deep Learning (DistilBERT) ---
+torch>=2.0.0
+transformers>=4.35.0
+tqdm>=4.65.0
+
+# --- Streamlit Web App ---
+streamlit>=1.32.0
+
+# --- Graph / Community Detection ---
+networkx>=3.1
+
+# ============================================================
+# Optional / Development
+# ============================================================
+
+# Plotting (if used directly outside Streamlit charts)
+matplotlib>=3.7.0
