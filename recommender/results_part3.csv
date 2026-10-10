@@ -1,2 +1,0 @@
-model,val_RMSE,val_MAE
-"ALS (mine, k=20, lam=1.0)",1.0705,0.7941

@@ -8,27 +8,16 @@
 
 ---
 
-## 1. Executive Summary & Paradigm Shift
+## 1. Executive Summary & Forensic Architecture
 
-### Moving Beyond Collaborative Filtering (SVD / ALS)
-Previous iterations of this project explored collaborative filtering matrix factorization algorithms (**FunkSVD** and **Alternating Least Squares (ALS)**) with defense weighting to protect recommender ratings from injected spam. However, matrix factorization relies strictly on tabular user-item numerical matrices ($R \approx P Q^\top$), completely overlooking the **linguistic reality** of the underlying texts.
-
-Modern Large Language Models (LLMs) like GPT-4, LLaMa 3, and Claude can synthesize fluent, persuasive, and grammatically flawless reviews and encyclopedic text at scale. Detecting machine-generated text (MGT) cannot be solved by rating matrices alone; it requires **computational stylometry**—the rigorous quantitative measurement of authorial linguistic style.
+Modern Large Language Models (LLMs) like GPT-4, LLaMa 3, and Claude can synthesize fluent, persuasive, and grammatically flawless reviews and encyclopedic text at scale. Detecting machine-generated text (MGT) requires **computational stylometry**—the rigorous quantitative measurement of authorial linguistic style.
 
 This document and the associated codebase operationalize the methodology, empirical findings, and architectural pipeline formulated by **Przystalski et al. (2026)** in *Expert Systems with Applications*.
 
 ```
    ┌─────────────────────────────────────────────────────────────┐
-   │                    THE PARADIGM SHIFT                       │
+   │            COMPUTATIONAL FORENSIC STYLOMETRY                │
    └─────────────────────────────────────────────────────────────┘
-          OLD FOCUS (Matrix Factorization)
-          Ratings Matrix R ──> FunkSVD / ALS ──> Predicted Score
-          ❌ Blind to linguistic syntax and AI hallucinations
-          ❌ Requires dense historical user-item interactions
-          ❌ Easily gamed by high-volume synthetic rating injections
-                             │
-                             ▼
-          NEW FOCUS (Computational Forensic Stylometry)
           Raw Text ──> [StyloMetrix + CLARIN-PL Features]
                    ──> Tree Classifiers (Decision Trees / LightGBM)
                    ──> SHAP Explainability & LLM Attribution
@@ -191,7 +180,7 @@ The updated `app.py` replaces all recommender routines with a pure forensic styl
 4. **Tab 4: Batch Stylometric Corpus Evaluator**:
    - Batch evaluation of multi-row CSV datasets with downloadable stylometric diagnostic sheets.
 5. **Layman's Guided Tour (`@st.dialog`)**:
-   - Step-by-step plain-English walkthrough explaining stylometry, grammatical standardization, fact-packing, and why SVD/ALS was replaced.
+   - Step-by-step plain-English walkthrough explaining stylometry, grammatical standardization, and fact-packing.
 
 ---
 
