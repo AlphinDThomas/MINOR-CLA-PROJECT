@@ -14,8 +14,8 @@ import pandas as pd
 from scipy import stats
 from . import data, baselines, funksvd, als, metrics, ranking, weights as wts
 
-MODEL_NAMES = ["Popularity", "Bias baseline", "FunkSVD (k=10, reg=0.2)", "ALS (k=20, lam=1.0)", "ALS (k=20, lam=0.5)"]
-FACTOR_MODELS = MODEL_NAMES[2:]
+MODEL_NAMES = ["Popularity", "Bias baseline"]
+FACTOR_MODELS = []
 STANDIN = dict(n_users=45000, n_items=30000, density_target=0.00022)      # real-like sparsity stand-in
 
 
@@ -64,10 +64,7 @@ def run_clean(path=None, seeds=(42, 43, 44, 45, 46), K=10, models=MODEL_NAMES, o
     df = pd.DataFrame(rows); df.to_csv(out, index=False)
     summ = summarize(df); summ.to_csv(out.replace(".csv", "_summary.csv"), index=False)
     print("\n== mean +- std over seeds (95% CI half-width in the summary csv) =="); print(pretty(summ).to_string())
-    for a, b in [("FunkSVD (k=10, reg=0.2)", "ALS (k=20, lam=1.0)"), ("FunkSVD (k=10, reg=0.2)", "ALS (k=20, lam=0.5)"),
-                 ("FunkSVD (k=10, reg=0.2)", "Bias baseline")]:
-        for met in ["RMSE", f"NDCG@{K}"]:
-            print(paired(df, a, b, met))
+
     return df
 
 
